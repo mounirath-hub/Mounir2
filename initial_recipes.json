@@ -1,0 +1,2948 @@
+[
+  {
+    "id": 101,
+    "slug": "car-wash-shampoo",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "شامبو السيارات (Car Shampoo)",
+    "titleEn": "High Foam Car Wash Shampoo",
+    "category": "car_shampoo",
+    "categoryName": "شامبو ورغوة",
+    "imageUrl": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة شامبو غسيل سيارات فائقة الرغوة واللمعان، تحمي طلاء السيارة (Clear Coat) وتزيل الأتربة وعوالق الطريق دون إتلاف الشمع.",
+    "badge": "رغوة كثيفة ولمعان للطلاء",
+    "phLevel": "6.5 - 7.0 (متعادل آمن لطلاء السيارات والشمع)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "12 ساعة لتلاشي الفقاعات الهوائية",
+    "appearance": "سائل لزج شفاف بلون كرزي أو أصفر فاقع برائحة منعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua (Water)",
+        "percentage": 86.8,
+        "role": "مذيب رئيسي وحامل للمكونات"
+      },
+      {
+        "name": "Texapon N70 (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate 70%",
+        "percentage": 8,
+        "role": "مادة فعالة سطحية مولدة للرغوة الكثيفة ومنظف للطلاء"
+      },
+      {
+        "name": "CDE (Cocamide DEA / كمبرلان)",
+        "chemicalName": "Coconut Diethanolamide",
+        "percentage": 2,
+        "role": "معزز ومثبت رغوة كثيفة ومحسن انزلاق الإسفنجة"
+      },
+      {
+        "name": "Propylene Glycol (بروبيلين جليكول)",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 2,
+        "role": "عامل ترطيب، مانع للجفاف السريع، ومضاد لظهور بقع الماء"
+      },
+      {
+        "name": "حمض الستريك (ملح الليمون)",
+        "chemicalName": "Citric Acid",
+        "percentage": 0.5,
+        "role": "ضبط درجة الـ pH إلى حياد آمن يحمي طبقة شمع السيارة"
+      },
+      {
+        "name": "عطر منعش (توت أو كرز أو فواكه)",
+        "chemicalName": "Automotive Fragrance",
+        "percentage": 0.5,
+        "role": "إضفاء رائحة جذابة ومنعشة أثناء الغسيل"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution (Preservative)",
+        "percentage": 0.2,
+        "role": "حماية التركيبة من التعفن والبكتيريا"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (86.8%) في وعاء خلط نظيف ومناسب.",
+      "أضف Texapon N70 (8.0%) تدريجياً مع التحريك المستمر باتجاه واحد حتى الذوبان التام.",
+      "أضف CDE (Cocamide DEA بنسبة 2.0%) وحرك جيداً حتى يمتزج تماماً ويتماسك القوام.",
+      "أضف Propylene Glycol (2.0%) لزيادة انزلاق الإسفنجة ومنع تشكل خطوط الماء الجافة على جسم السيارة.",
+      "أذب حمض الستريك (0.5%) في قليل من الماء وأضفه للخليط لضبط درجة الـ pH عند المعدل المتعادل المناسب لحماية الطلاء.",
+      "أضف مادة Formol (0.2%) الحافظة ثم العطر (0.5%)، مع إمكانية إضافة قطرات ملون أحمر كرزي أو أصفر.",
+      "أكمل الماء إلى 100% وحرك حتى التجانس التام، ثم عبئ المنتج في عبوات مناسبة."
+    ],
+    "safetyWarnings": [
+      "تجنب غسل السيارة تحت أشعة الشمس الحارقة مباشرة أو عندما يكون هيكل السيارة ساخناً.",
+      "ارتدِ قفازات أثناء وزن المواد الخام المركزة وخاصة التكسابون والفورمول."
+    ],
+    "formulationTips": [
+      "البروبيلين جليكول هو السر في منح لمعان حريري لطلاء السيارة ومنع تجيير السطح إذا تأخر الشطف.",
+      "حمض الستريك يضبط الـ pH بين 6.5 و 7.0 مما يضمن عدم تآكل أو زوال طبقة النانو سيراميك أو الشمع الواقي."
+    ],
+    "usageInstructions": "يخفف فنجان واحد (50-70 مل) في سطل ماء (حوالي 8-10 لتر)، أو يستخدم مباشرة في مدفع الرغوة (Snow Foam Cannon).",
+    "recommendedPackaging": "جالونات أو عبوات بلاستيكية سعة 1 لتر أو 4 لتر مع مقبض مريح.",
+    "isFeaturedPrompt": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": false
+  },
+  {
+    "id": 102,
+    "slug": "car-glass-cleaner",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 2,
+    "title": "منتج تنظيف زجاج السيارات (Car Glass Cleaner)",
+    "titleEn": "Automotive Windshield & Glass Cleaner",
+    "category": "car_glass",
+    "categoryName": "تنظيف الزجاج",
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف وملمع زجاج ومرايا السيارات المتطور، يزيل آثار الحشرات والزيوت والشحوم وعوادم الطريق ويمنح رؤية كريستالية نقية بدون أي تشويش.",
+    "badge": "إزالة الحشرات ورؤية نقية",
+    "phLevel": "5.5 - 6.5 (حمضي خفيف لإذابة الرواسب الكلسية)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "ساعتان",
+    "appearance": "سائل أزرق سماوي فائق الشفافية متطاير وسريع الجفاف",
+    "ingredients": [
+      {
+        "name": "ماء نقي (مقطر أو منزوع الأملاح)",
+        "chemicalName": "Deionized Water",
+        "percentage": 82.5,
+        "role": "مذيب نقي لا يترك أي أثر جيري على الزجاج"
+      },
+      {
+        "name": "Isopropanol (كحول إيزوبروبيلي IPA)",
+        "chemicalName": "Isopropyl Alcohol 99%",
+        "percentage": 10,
+        "role": "مذيب سريع التطاير يزيل الشحوم والبصمات والضباب"
+      },
+      {
+        "name": "Propylene Glycol (بروبيلين جليكول)",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 5,
+        "role": "مساعد انتشار يمنع التبخر الفوري الزائد ويفكك بقايا الحشرات الجافة"
+      },
+      {
+        "name": "Texapon N70 (تكسابون)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "تخفيض الشد السطحي ومساعدة شفرات المساحات على الانزلاق بسلاسة"
+      },
+      {
+        "name": "حمض الستريك",
+        "chemicalName": "Citric Acid",
+        "percentage": 0.3,
+        "role": "إذابة بقع قطرات المطر الحمضية والتكلسات الجيرية الدقيقة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "اخلط الماء النقي (82.5%) مع Isopropanol (10.0%) في وعاء التحضير بهدوء.",
+      "أضف Texapon N70 (2.0%) وحرك برفق حتى يذوب في الوسط الكحولي المائي.",
+      "أضف Propylene Glycol (5.0%) وحرك لمدة دقيقتين حتى يمتزج بالكامل.",
+      "أذب حمض الستريك (0.3%) في قليل من الماء النقي وأضفه إلى المزيج لضبط الوسط وإزالة بقع التكلس.",
+      "أضف مادة Formol (0.2%) الحافظة ويمكن إضافة قطرة ملون أزرق سائل لمنح المنتج مظهراً جذاباً.",
+      "أكمل الماء إلى 100% وتأكد من امتزاج كافة المكونات جيداً.",
+      "عبئ المحلول في قوارير رذاذية (بخاخ) مخصصة للسيارات أو في خزان مياه مساحات السيارة."
+    ],
+    "safetyWarnings": [
+      "يحتوي على كحول الإيزوبروبانول: يمنع الرش بالقرب من اللهب أو السجائر المشتعلة.",
+      "احفظ العبوة بعيداً عن مقصورة السيارة المعرضة للشمس المباشرة لفترات طويلة."
+    ],
+    "formulationTips": [
+      "البروبيلين جليكول (5%) يبطئ التبخر قليلاً ليسمح للمحلول بتليين وإذابة بقايا الحشرات الميتة والقطران اللاصق على الزجاج الأمامي.",
+      "استخدام ماء مقطر إلزامي لمنع انسداد رشاشات مياه المساحات الدقيقة على غطاء المحرك."
+    ],
+    "usageInstructions": "يرش مباشرة على الزجاج الأمامي والمرايا والشبابيك، ويمسح بفوطة مايكروفايبر خاصة بزجاج السيارات بحركات مستقيمة، أو يصب في خزان مساحات السيارة.",
+    "recommendedPackaging": "قارورة بخاخ رذاذي سعة 500 أو 750 مل ذات جودة عالية.",
+    "isFeaturedPrompt": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=kYv_3e1aQ7E",
+    "isPremium": false
+  },
+  {
+    "id": 103,
+    "slug": "tire-shine-gel",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "ملمع ومغذي إطارات السيارات (Tire Shine Gel)",
+    "titleEn": "Silicone Tire Dressing & Gloss Gel",
+    "category": "car_wheels",
+    "categoryName": "إطارات وجنوط",
+    "imageUrl": "https://images.unsplash.com/photo-1578844251758-2f71da64c96f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "جل سيليكوني فاخر لإكساب إطارات السيارات لمعاناً رطباً وحمايتها من التشققات والأشعة فوق البنفسجية لمدة طويلة.",
+    "badge": "لمعان رطب وحماية من التشقق",
+    "phLevel": "7.0 (متعادل)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "فوري للاستخدام",
+    "appearance": "مستحلب أبيض حليبي أو جل شفاف لزج ذو رائحة لطيفة",
+    "ingredients": [
+      {
+        "name": "ماء نقي مقطر",
+        "chemicalName": "Aqua (Deionized Water)",
+        "percentage": 67.8,
+        "role": "وسط مذيب وحامل للمستحلب"
+      },
+      {
+        "name": "مستحلب السيليكون (Silicone Emulsion 60%)",
+        "chemicalName": "Polydimethylsiloxane Emulsion",
+        "percentage": 25,
+        "role": "عامل التلميع الرئيسي وإكساب المطاط مقاومة الماء والشمس"
+      },
+      {
+        "name": "جليسرين نباتي نقائي (Glycerin)",
+        "chemicalName": "Glycerol",
+        "percentage": 5,
+        "role": "ترطيب عميق لمطاط الإطارات ومنع الجفاف والتشقق"
+      },
+      {
+        "name": "تكسابون Texapon N70",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 1,
+        "role": "مساعد استحلاب وتوزيع متجانس على سطح الكفر"
+      },
+      {
+        "name": "مثخن كربابول Carbomer 940",
+        "chemicalName": "Carbomer 940",
+        "percentage": 0.4,
+        "role": "إعطاء القوام الهلامي (Gel) لمنع سيلان المنتج على الأرض"
+      },
+      {
+        "name": "ثلاثي إيثانول أمين (TEA)",
+        "chemicalName": "Triethanolamine",
+        "percentage": 0.4,
+        "role": "معادلة الكربابول لتكوين القوام الهلامي الصافي"
+      },
+      {
+        "name": "عطر كرز أو فانيليا",
+        "chemicalName": "Fragrance",
+        "percentage": 0.3,
+        "role": "إعطاء رائحة مقبولة وفاخرة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution",
+        "percentage": 0.1,
+        "role": "منع نمو الميكروبات في الوسط المائي"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء نظيف، ضع كمية الماء المقطر (67.8%) ثم انثر مسحوق Carbomer 940 ببطء شديد مع التقليب حتى يتشتت بدون تكتلات.",
+      "اترك الكربابول ينقع لمدة ساعتين حتى يشرب الماء بالكامل.",
+      "أضف TEA قطرة قطرة مع التحريك البطيء، ستلاحظ تحول المزيج إلى جل شفاف متماسك.",
+      "أضف مستحلب السيليكون (25%) ببطء مع التحريك المستمر باتجاه واحد حتى يتجانس تماماً.",
+      "أضف الجليسرين (5%) والتكسابون (1%) واخلط جيداً.",
+      "أضف العطر والمادة الحافظة Formol واخلط لمدة 5 دقائق، ثم عبئ المنتج في عبوات ضاغطة."
+    ],
+    "safetyWarnings": [
+      "لا تطبق المنتج على مداس الإطار الملامس للأرض أو أقراص الفرامل لمنع الانزلاق.",
+      "ارتدِ قفازات أثناء التصنيع تجنباً لجفاف اليدين.",
+      "تجنب ملامسة العينين."
+    ],
+    "formulationTips": [
+      "زيادة نسبة مستحلب السيليكون تعطي لمعاناً فائقاً يدوم لعدة غسلات.",
+      "تأكد من إذابة الكربابول تماماً قبل إضافة مادة المعادلة TEA لضمان شفافية الجل."
+    ],
+    "usageInstructions": "اغسل الإطار جيداً وجففه، ثم ضع كمية صغيرة من الجل على إسفنجة كفرات ووزعها بانتظام على جوانب الإطار واتركها لتجف 10 دقائق.",
+    "recommendedPackaging": "عبوات بلاستيكية PET أو HDPE بسعة 500 مل مع غطاء ضغاط أو فوهة تطبيق.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=yW2k_3pB7Qk",
+    "isPremium": true
+  },
+  {
+    "id": 104,
+    "slug": "rim-wheel-cleaner",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "منظف جنوط وإطارات السيارات القلوي (Rim & Wheel Cleaner)",
+    "titleEn": "Alkaline Heavy-Duty Wheel Cleaner",
+    "category": "car_wheels",
+    "categoryName": "إطارات وجنوط",
+    "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف عالي الأداء لتفكيك غبار الفرامل المحترق (Brake Dust) والزيوت والشحوم المستعصية عن جنوط الألومنيوم والكروم بأمان.",
+    "badge": "إذابة غبار الفرامل والشحوم",
+    "phLevel": "10.5 - 11.0 (قلوي معتدل آمن على الجنوط)",
+    "phType": "alkaline",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "جاهز فوراً",
+    "appearance": "سائل أرجواني أو أحمر شفاف برائحة حمضيات خفيفة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Water",
+        "percentage": 88.6,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "تكسابون Texapon N70",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 4,
+        "role": "مادة رغوية ومنظفة تلتصق بالسطح الرأسي للجنط"
+      },
+      {
+        "name": "ميتا سيليكات الصوديوم",
+        "chemicalName": "Sodium Metasilicate Pentahydrate",
+        "percentage": 3,
+        "role": "عامل قلوي يفكك الشحوم ويحمي أسطح الألومنيوم من التآكل"
+      },
+      {
+        "name": "بوتيل جليكول (Butyl Glycol)",
+        "chemicalName": "2-Butoxyethanol",
+        "percentage": 3,
+        "role": "مذيب لاختراق طبقات الكربون وغبار الفحم المحروق"
+      },
+      {
+        "name": "إيدتا EDTA 4Na",
+        "chemicalName": "Tetrasodium EDTA",
+        "percentage": 1,
+        "role": "عامل استخلاب لربط أيونات الحديد والفلزات وإذابتها"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      },
+      {
+        "name": "عطر حمضيات صناعي",
+        "chemicalName": "Citrus Fragrance",
+        "percentage": 0.2,
+        "role": "تغطية رائحة المواد القلوية"
+      }
+    ],
+    "preparationSteps": [
+      "صب الماء في وعاء الخلط مع التحريك.",
+      "أضف EDTA 4Na وحرك حتى الذوبان التام لنزع قساوة الماء وتعزيز مفعول التنظيف.",
+      "أضف ميتا سيليكات الصوديوم بالتدريج حتى يذوب تماماً.",
+      "أضف التكسابون Texapon N70 مع التقليب بهدوء لمنع تشكل رغوة مفرطة.",
+      "أضف بوتيل جليكول والعطر والمادة الحافظة، وحرك لمدة 10 دقائق حتى يتجانس المحلول بالكامل."
+    ],
+    "safetyWarnings": [
+      "لا ترش المنتج أبداً على جنوط ساخنة مباشرة بعد قيادة السيارة.",
+      "لا تترك المنتج يجف على السطح، اشطفه بالماء بعد 2 إلى 3 دقائق.",
+      "ارتدِ قفازات ونظارات واقية أثناء التصنيع والاستخدام."
+    ],
+    "formulationTips": [
+      "ميتا سيليكات الصوديوم يحمي معادن الألمنيوم عكس الصودا الكاوية العنيفة التي تسبب اسوداد الجنط.",
+      "يمكن تلوين المحلول بلون أرجواني أو أحمر كرزي لتمييزه كمنتج احترافي."
+    ],
+    "usageInstructions": "رش المنظف بوفرة على الجنط البارد، اتركه لمدة دقيقتين ليتفاعل مع سواد الفرامل، افرك بفرشاة جنوط ناعمة ثم اغسل بضغط ماء قوي.",
+    "recommendedPackaging": "عبوة بخاخ Trigger Spray سعة 500 مل أو 1 لتر مصنوعة من HDPE.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=VXZm81P5W2s",
+    "isPremium": true
+  },
+  {
+    "id": 105,
+    "slug": "dashboard-interior-protectant",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "ملمع وحماية تابلوه وجلد السيارة (Dashboard & Leather)",
+    "titleEn": "Matte/Satin Finish Dashboard Protectant",
+    "category": "car_interior",
+    "categoryName": "تابلوه ومقصورة",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة مضادة للغبار ومقاومة للأشعة فوق البنفسجية للتابلوه والأبواب والجلد الداخلي بلمسة حريرية مطفية أنيقة وغير دهنية.",
+    "badge": "حماية من الشمس ومضاد للغبار",
+    "phLevel": "7.0 (متعادل لطيف)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "فوري",
+    "appearance": "مستحلب حليبي عطر ذو ملمس غير لزج",
+    "ingredients": [
+      {
+        "name": "ماء مقطر نقي",
+        "chemicalName": "Distilled Aqua",
+        "percentage": 78.3,
+        "role": "قاعدة مائية نظيفة خالية من الأملاح"
+      },
+      {
+        "name": "مستحلب السيليكون (Silicone Emulsion 35%)",
+        "chemicalName": "Dimethicone Emulsion",
+        "percentage": 15,
+        "role": "إكساب البلاستيك والجلد لمسة ساتان وقائية ومنع التبهيت"
+      },
+      {
+        "name": "كحول إيزوبروبيلي IPA",
+        "chemicalName": "Isopropanol 99%",
+        "percentage": 3,
+        "role": "تنظيف سريع وإزالة بصمات الأصابع ومساعد تبخر سريع"
+      },
+      {
+        "name": "بروبيلين جليكول Propylene Glycol",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 2,
+        "role": "مرطب يمنع تشقق الفينيل والجلد بسبب حرارة الصيف"
+      },
+      {
+        "name": "كمبرلان CDE",
+        "chemicalName": "Cocamide DEA",
+        "percentage": 1,
+        "role": "مساعد استحلاب ومثبت للتركيبة المائية"
+      },
+      {
+        "name": "عطر سيارات فاخر (عود أو لافندر أو بريز)",
+        "chemicalName": "Automotive Fine Fragrance",
+        "percentage": 0.5,
+        "role": "إعطاء رائحة مقصورة فاخرة تدوم طويلاً"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution",
+        "percentage": 0.2,
+        "role": "حفظ المنتج من التعفن"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء، اخلط CDE مع العطر وكحول الأيزوبروبيل IPA جيداً حتى يمتزج العطر بالكامل.",
+      "في وعاء رئيسي، صب الماء المقطر وأضف البروبيلين جليكول مع التقليب.",
+      "أضف خليط العطر و CDE إلى الماء وحرك حتى يصبح المزيج متجانساً.",
+      "أضف مستحلب السيليكون بالتدريج مع التقليب المستمر بدون عنف لتجنب الرغوة.",
+      "أضف المادة الحافظة Formol وقم بالتقليب لمدة 5 دقائق حتى تحصل على مستحلب حليبي متجانس."
+    ],
+    "safetyWarnings": [
+      "لا ترش المنتج على المقود (الدركسيون) أو دواسات البنزين والفرامل تجنباً لخطر الانزلاق أثناء القيادة.",
+      "لا ترشه مباشرة على شاشات الملاحة واللمس (يفضل رشه على فوطة أولاً ثم مسحها)."
+    ],
+    "formulationTips": [
+      "نسبة 15% من مستحلب السيليكون تعطي لمعة حريرية مطفية (Satin Finish) غير مزعجة ولا تعكس ضوء الشمس على الزجاج الأمامي.",
+      "استخدام ماء مقطر يضمن عدم ترك أي بقع بيضاء كلسية على البلاستيك الأسود."
+    ],
+    "usageInstructions": "رج العبوة جيداً، رش كمية خفيفة على منشفة مايكروفايبر نظيفة، وامسح التابلوه والأبواب البلاستيكية والجلد بحركات دائرية.",
+    "recommendedPackaging": "عبوة بخاخ رذاذ دقيق (Fine Mist Sprayer) سعة 500 مل.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=u78o1lVqJ_M",
+    "isPremium": true
+  },
+  {
+    "id": 106,
+    "slug": "snow-foam-active-wash",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "رغوة غسيل السيارات الثلجية (Snow Foam Pre-Wash)",
+    "titleEn": "Ultra Snow Foam Active Cannon Shampoo",
+    "category": "car_shampoo",
+    "categoryName": "شامبو ورغوة",
+    "imageUrl": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة مخصصة لمسدسات الفوم كانون (Foam Cannon) لإنتاج رغوة ثلجية فائقة الكثافة والالتصاق تفكك الأوساخ دون لمس السيارة.",
+    "badge": "رغوة فوم كانون ثلجية كثيفة",
+    "phLevel": "7.0 - 7.5 (آمن للشمع والنانو سيراميك)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "8 ساعات",
+    "appearance": "سائل لزج ملون (أزرق أو وردي أو أصفر فاقع) برائحة منعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Water",
+        "percentage": 76.8,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "تكسابون Texapon N70",
+        "chemicalName": "Sodium Lauryl Ether Sulfate 70%",
+        "percentage": 14,
+        "role": "مولد الرغوة الثلجية الكثيفة وخافض توتر سطحي فعال"
+      },
+      {
+        "name": "بيتايين Cocamidopropyl Betaine",
+        "chemicalName": "CAPB 30%",
+        "percentage": 3,
+        "role": "معزز كثافة فقاعات الرغوة ومحسن ثباتها على صاج السيارة"
+      },
+      {
+        "name": "كمبرلان CDE",
+        "chemicalName": "Cocamide DEA",
+        "percentage": 3,
+        "role": "مثبت رغوة ومثخن قوام ومزلق للأوساخ"
+      },
+      {
+        "name": "بروبيلين جليكول Propylene Glycol",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 2,
+        "role": "مانع جفاف سريع أثناء سيلان الرغوة"
+      },
+      {
+        "name": "حمض الستريك",
+        "chemicalName": "Citric Acid",
+        "percentage": 0.5,
+        "role": "ضبط درجة الحموضة pH إلى 7.0 متعادلة لحماية النانو سيراميك"
+      },
+      {
+        "name": "عطر سيارات منعش",
+        "chemicalName": "Automotive Wash Fragrance",
+        "percentage": 0.5,
+        "role": "رائحة فواحة مميزة أثناء الغسيل بالفوم"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة ضد التعفن"
+      }
+    ],
+    "preparationSteps": [
+      "ضع الماء في خزان الخلط.",
+      "أضف التكسابون Texapon N70 ببطء مع التحريك المستمر باتجاه واحد لتجنب تكوين فقاعات هوائية كثيفة حتى الذوبان.",
+      "أضف CDE والبيتايين وحرك بهدوء حتى يمتزجا ويكتسب المحلول قواماً لزجاً وغنياً.",
+      "أضف بروبيلين جليكول مع العطر واخلط جيداً.",
+      "قم بإذابة حمض الستريك في قليل من الماء وأضفه لضبط الـ pH ليكون متعادلاً تماماً (7.0).",
+      "أضف Formol واللون المفضل (أزرق أو وردي) واخلط 5 دقائق ثم اتركه يركد ليلة كاملة لتصفية الفقاعات."
+    ],
+    "safetyWarnings": [
+      "لا تغسل السيارة تحت أشعة الشمس المباشرة أو عندما يكون طلاء السيارة ساخناً.",
+      "يحفظ بعيداً عن متناول الأطفال."
+    ],
+    "formulationTips": [
+      "نسبة التكسابون مع البيتايين والكمبرلان تخلق رغوة ذات بنية لزجة تشبه رغوة الحلاقة تلتصق بالسيارة وتسحب الأوساخ لأسفل بفعل الجاذبية.",
+      "يمكن تخفيف هذا الشامبو بنسبة 1:10 داخل عبوة مسدس الفوم (Foam Cannon)."
+    ],
+    "usageInstructions": "املأ عبوة مسدس الفوم بنسبة 100 مل شامبو إلى 900 مل ماء دافئ، رش السيارة بالكامل بالرغوة الثلجية، اتركها تسيل لمدة 4-5 دقائق، ثم اشطفها بضغط ماء عالي.",
+    "recommendedPackaging": "جالون HDPE سعة 1 لتر أو 5 لتر مع مقبض متين وغطاء محكم.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+    "isPremium": true
+  },
+  {
+    "id": 107,
+    "slug": "bug-and-tar-remover",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "مزيل القطران والحشرات اللاصقة (Bug & Tar Remover)",
+    "titleEn": "Heavy-Duty Citrus Bug & Tar Remover",
+    "category": "car_care",
+    "categoryName": "هيكل وحشرات",
+    "imageUrl": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "مذيب حمضي/مذيب طبيعي معزز بخلاصة البرتقال d-Limonene لإذابة زفت الطرق والقطران الأسود وبقايا الحشرات الجافة على مقدمة السيارة بدون فرك خشن.",
+    "badge": "إذابة سريعة للزفت والحشرات",
+    "phLevel": "7.5 (معتدل لا يؤذي الطلاء)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "فوري",
+    "appearance": "محلول شفاف أو كهرماني زيتي خفيف برائحة البرتقال القوية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Water",
+        "percentage": 72.8,
+        "role": "مذيب حامل"
+      },
+      {
+        "name": "كحول إيزوبروبيلي IPA 99%",
+        "chemicalName": "Isopropyl Alcohol",
+        "percentage": 12,
+        "role": "مساعد إذابة ومسارع تطاير"
+      },
+      {
+        "name": "دي ليمونين (d-Limonene زيت البرتقال النقي)",
+        "chemicalName": "d-Limonene Terpene",
+        "percentage": 8,
+        "role": "مذيب عضوي فائق القوة للقطران والزفت والمواد الصمغية"
+      },
+      {
+        "name": "مادة فعالة سطحية نيونيك (NP-9 أو Polysorbate 20)",
+        "chemicalName": "Nonylphenol Ethoxylate / Surfactant",
+        "percentage": 4,
+        "role": "عامل استحلاب فعال لدمج زيت d-Limonene مع الوسط المائي"
+      },
+      {
+        "name": "بوتيل جليكول Butyl Glycol",
+        "chemicalName": "2-Butoxyethanol",
+        "percentage": 3,
+        "role": "مذيب عضوي مخترق يفكك البروتينات وبقايا الحشرات الجافة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution",
+        "percentage": 0.2,
+        "role": "حفظ المستحلب"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء منفصل، اخلط d-Limonene مع NP-9 وبوتيل جليكول جيداً لمدة 3 دقائق حتى يصبح الخليط متجانساً وممتزجاً.",
+      "في وعاء الخلط الرئيسي، ضع الماء وأضف كحول الإيزوبروبيل IPA.",
+      "أضف المزيج العضوي ببطء إلى وعاء الماء مع التحريك السريع؛ ستلاحظ تحوله إلى محلول شفاف أو حليبي خفيف بدون أي انفصال للزيت.",
+      "أضف المادة الحافظة واستمر في التحريك لمدة 5 دقائق حتى تستقر الرائحة العطرية الحمضية القوية."
+    ],
+    "safetyWarnings": [
+      "مادة قابلة للاشتعال بسبب الكحول و d-Limonene؛ احفظه بعيداً عن مصادر اللهب والحرارة.",
+      "لا تتركه يجف تماماً على الطلاء تحت أشعة الشمس المباشرة.",
+      "ارتدِ قفازات مطاطية لحماية اليدين من الجفاف."
+    ],
+    "formulationTips": [
+      "d-Limonene هو المكون السحري الاحترافي المستخدم في أغلى منتجات إزالة القطران والزفت العالمية.",
+      "NP-9 يضمن ألا ينفصل الزيت عن الماء ويسمح بغسل المنتج وشطفه بالماء بسهولة بعد تفتيت القطران."
+    ],
+    "usageInstructions": "رش السائل مباشرة على بقع الزفت أو الحشرات على الصدام أو الأبواب، اتركه لمدة 1 إلى 2 دقيقة حتى تلاحظ ذوبان القطران وسيلانه، امسح بقطعة مايكروفايبر ناعمة، ثم اغسل بالماء والصابون.",
+    "recommendedPackaging": "عبوة بخاخ HDPE مقاومة للمذيبات العضوية سعة 500 مل.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=t1-m_iQkGz8",
+    "isPremium": true
+  },
+  {
+    "id": 1,
+    "slug": "dishwashing-liquid-economy",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 1,
+    "title": "سائل غسل الأواني (اقتصادي)",
+    "titleEn": "Economy Dishwashing Liquid",
+    "category": "dishes_kitchen",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1585837575652-267c041d77d4?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة تجارية واقتصادية ممتازة لغسيل الصحون برغوة جيدة وتكلفة منخفضة جداً.",
+    "badge": "اقتصادي وتجاري",
+    "phLevel": "6.5 - 7.5 (متعادل ولطيف)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "35 - 45 دقيقة",
+    "curingTime": "12 - 24 ساعة لصفاء المنتج وتلاشي الفقاعات",
+    "appearance": "سائل لزج شفاف بلون ليموني مميز",
+    "ingredients": [
+      {
+        "name": "ماء نقي (يفضل مقطر أو منزوع الأملاح)",
+        "chemicalName": "Aqua (Water)",
+        "percentage": 88.4,
+        "role": "مذيب رئيسي وحامل للمكونات"
+      },
+      {
+        "name": "SLES أو Texapon (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate 70%",
+        "percentage": 7,
+        "role": "مادة فعالة سطحية أساسية ومولدة للرغوة"
+      },
+      {
+        "name": "Cocamide DEA (كمبرلان KD)",
+        "chemicalName": "Coconut Diethanolamide",
+        "percentage": 2,
+        "role": "معزز ومثبت رغوة ومحسن قوام"
+      },
+      {
+        "name": "ملح طعام نقي NaCl",
+        "chemicalName": "Sodium Chloride (Pure)",
+        "percentage": 2,
+        "role": "معدل ومثخن للزوجة الأيونية"
+      },
+      {
+        "name": "عطر زيتي (ليمون فواح)",
+        "chemicalName": "Fragrance / Lemon Oil",
+        "percentage": 0.3,
+        "role": "إضفاء رائحة منعشة للمنتج"
+      },
+      {
+        "name": "مادة حافظة Formol (فورمول)",
+        "chemicalName": "Formaldehyde solution (Preservative)",
+        "percentage": 0.2,
+        "role": "حماية المنتج من البكتيريا والتعفن"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (88.4%) في وعاء نظيف مصنع من البلاستيك أو الستانلس ستيل المقاوم.",
+      "أضف SLES أو Texapon مع التحريك المستمر حتى الذوبان التام.",
+      "أضف Cocamide DEA (2.0%) وحرك جيداً حتى التجانس.",
+      "أضف ملح الطعام تدريجياً مع التحريك حتى الحصول على القوام واللزوجة المطلوبة.",
+      "أضف Formol (0.2%) ثم العطر (0.3%) واللون المفضل (اختياري).",
+      "أكمل الماء إلى 100% وحرك حتى التجانس التام.",
+      "عبئ في عبوات مناسبة واتركه ليرتاح لتلاشي الفقاعات."
+    ],
+    "safetyWarnings": [
+      "ارتدِ قفازات واقية ونظارات حماية أثناء وزن ومناولة التكسابون والفورمول.",
+      "تجنب استنشاق أبخرة الفورمول المباشرة وتأكد من العمل في مكان جيد التهوية."
+    ],
+    "formulationTips": [
+      "إذا كانت اللزوجة خفيفة، أضف 0.2% إضافية من الملح المحلول بحذر قطرة قطرة مع التحريك.",
+      "يمكن إذابة التكسابون قبل يوم ونقعه بالماء لتسهيل ذوبانه التام وتوفير وقت التحريك اليدوي."
+    ],
+    "usageInstructions": "يوضع قليل من السائل على إسفنجة مبللة ويدعك للحصول على رغوة وفيرة لتنظيف الدهون من الأواني والصحون.",
+    "recommendedPackaging": "عبوات بلاستيكية شفافة PET سعة 500 مل أو 1 لتر مع غطاء ضغاط.",
+    "isFeaturedPrompt": true,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=r0f8sVb5e_g"
+  },
+  {
+    "id": 2,
+    "slug": "dishwashing-liquid-premium",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 2,
+    "title": "سائل غسل الأواني (جودة أعلى)",
+    "titleEn": "Premium Dishwashing Liquid",
+    "category": "dishes_kitchen",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة بريميوم عالية التركيز والرغوة، لطيفة جداً على الأيدي بفضل البيتايين وقوة إزالة الدهون العنيدة.",
+    "badge": "جودة فاخرة ورغوة وفيرة",
+    "phLevel": "6.8 - 7.2 (متعادل لطيف على البشرة)",
+    "phType": "neutral_skin",
+    "difficulty": "متوسط",
+    "preparationTime": "40 دقيقة",
+    "curingTime": "24 ساعة للحصول على لمعان كريستالي",
+    "appearance": "جل سائل عالي اللزوجة كريستالي فائق الشفافية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 82.9,
+        "role": "مذيب نقي"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 10,
+        "role": "مادة منظفة ورغوية رئيسية عالية الكفاءة"
+      },
+      {
+        "name": "Betaine (كوكاميدو بروبيل بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine (CAPB 30%)",
+        "percentage": 3,
+        "role": "مرطب للبشرة، ومحسن رغوة مجهرية كثيفة"
+      },
+      {
+        "name": "Cocamide DEA (كمبرلان)",
+        "chemicalName": "Coconut Diethanolamide",
+        "percentage": 2,
+        "role": "مثبت رغوة ومثخن قوام زيتي"
+      },
+      {
+        "name": "ملح طعام NaCl نقي",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 1.5,
+        "role": "عامل بناء اللزوجة المثالي"
+      },
+      {
+        "name": "عطر زيتي عالي التركيز",
+        "chemicalName": "Premium Fragrance Oil",
+        "percentage": 0.3,
+        "role": "رائحة منعشة تدوم طويلاً"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde / Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة ضد الميكروبات"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (82.9%) كاملة في خزان التحضير.",
+      "أضف التكسابون SLES (10.0%) مع التقليب المستمر حتى يذوب تماماً.",
+      "أضف البيتايين Betaine (3.0%) وحرك لمدة دقيقتين لتنعيم الرغوة.",
+      "أضف Cocamide DEA (2.0%) واستمر في التقليب الهادئ.",
+      "أضف العطر المركز المفضل (0.3%) والمادة الحافظة Formol (0.2%).",
+      "أذب ملح NaCl (1.5%) في قليل من الماء الدافئ وأضفه على دفعات رقيقة مع الخلط لرفع القوام.",
+      "اترك المنتج يستقر تماماً لمدة 24 ساعة قبل التعبئة ليصبح نقياً كالبلور."
+    ],
+    "safetyWarnings": [
+      "استخدم أدوات قياس دقيقة بالنسب المئوية لضمان توازن المواد الفعالة السطحية.",
+      "استخدم كمامة وقفازات مطاطية لحماية اليدين من تركيز المواد الفعالة قبل التخفيف."
+    ],
+    "formulationTips": [
+      "وجود البيتايين مع التكسابون يمنح الرغوة كثافة مخملية تماثل المنتجات العالمية المشهورة كـ Fairy.",
+      "الملح المطلوب هنا أقل (1.5%) لأن مزيج البيتايين والكمبرلان يرفعان اللزوجة ذاتياً."
+    ],
+    "usageInstructions": "بضع قطرات قليلة على إسفنجة مبللة تكفي لغسل كمية كبيرة من الصحون وتفتيت أعتى الدهون المحترقة.",
+    "recommendedPackaging": "زجاجات PET شفافة مع غطاء قلاب فاخر (Flip Top).",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 3,
+    "slug": "liquid-hand-soap-economy",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 3,
+    "title": "صابون سائل لليدين (اقتصادي)",
+    "titleEn": "Economy Liquid Hand Soap",
+    "category": "personal_care",
+    "categoryName": "عناية وصابون",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "صابون يدين رغوي ناعم ومنعش، ينظف بكفاءة مع الحفاظ على ترطيب البشرة بتكلفة اقتصادية مدروسة.",
+    "badge": "ترطيب ولطافة على اليدين",
+    "phLevel": "5.5 - 6.5 (متوافق مع حامضية البشرة الطبيعية)",
+    "phType": "neutral_skin",
+    "difficulty": "سهل",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "12 ساعة",
+    "appearance": "سائل لؤلؤي أو شفاف ناعم برائحة زكية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 88.4,
+        "role": "مذيب نقي"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 8,
+        "role": "قاعدة تنظيف سطحية لطيفة"
+      },
+      {
+        "name": "Betaine (كوكاميدو بروبيل بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 2,
+        "role": "ملطف للبشرة وعامل خافض للتهيج"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 1,
+        "role": "معدل قوام وانسيابية"
+      },
+      {
+        "name": "عطر تجميلي (ورد أو لافندر)",
+        "chemicalName": "Cosmetic Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة لطيفة جذابة لليدين"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج من التلوث الميكروبي"
+      }
+    ],
+    "preparationSteps": [
+      "أفرغ كمية الماء (88.4%) في وعاء المزج المخصص.",
+      "أضف مادة التكسابون SLES (8.0%) تدريجياً مع التحريك الهادئ والمستمر حتى يذوب بشكل كامل.",
+      "أضف البيتايين Betaine (2.0%) الذي يحمي أيدي المستخدمين من الجفاف ويمنح نعومة للرغوة.",
+      "أضف العطر التجميلي المنعش (0.3%) وقلّب لمدة 3 دقائق.",
+      "أضف المادة الحافظة Formol (0.2%) بحذر ووزعها بالتقليب الجيد.",
+      "أضف ملح الطعام (1.0%) المذاب مسبقاً في كمية ماء صغيرة للحصول على لزوجة سلسة لمضخات الصابون.",
+      "اترك الصابون حتى تهدأ الرغوة السطحية ويعبأ في زجاجات مزودة بمضخة (Pump)."
+    ],
+    "safetyWarnings": [
+      "تأكد من أن درجة الـ pH بين 5.5 و 6.5 لضمان عدم تهيج جلد الأطفال والبالغين."
+    ],
+    "formulationTips": [
+      "يمكن إضافة 0.5% من مادة مصدفة (Perlizer) لإعطاء مظهر لؤلؤي فاخر كالصابون الفندقي."
+    ],
+    "usageInstructions": "اضغط ضغطة واحدة على اليدين المبللتين، افرك جيداً لمدة 20 ثانية ثم اشطف بالماء.",
+    "recommendedPackaging": "قارورة أنيقة سعة 300 - 500 مل مزودة بمضخة توزيع الصابون (Dispenser Pump).",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=QxZq5cK2P4Q"
+  },
+  {
+    "id": 4,
+    "slug": "oven-degreaser-heavy-duty",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 4,
+    "title": "مزيل دهون الفرن (شديد الفعالية)",
+    "titleEn": "Heavy-Duty Oven & Grill Degreaser",
+    "category": "dishes_kitchen",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف قلوي فائق القوة ومذيب كيميائي مخصص لإذابة الشحوم المتفحمة والدهون الصلبة في الأفران والشوايات.",
+    "badge": "قلوي قوي - شديد الفعالية",
+    "phLevel": "12.5 - 13.5 (قلوي شديد الفاعلية للدهون)",
+    "phType": "alkaline",
+    "difficulty": "متقدم (يتطلب حذر)",
+    "preparationTime": "45 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل كهرماني أو مائل للصفرة خفيف الرغوة سريع التغلغل",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 91.5,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "هيدروكسيد الصوديوم NaOH (صودا كاوية)",
+        "chemicalName": "Sodium Hydroxide (Caustic Soda)",
+        "percentage": 2,
+        "role": "عامل تصبن وتفكيك كيميائي عنيف للدهون والشحوم"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 3,
+        "role": "تخفيض التوتر السطحي لتعميق تغلغل المحلول"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol / 2-Butoxyethanol",
+        "percentage": 2,
+        "role": "مذيب عضوي فعال جداً لاختراق وحل الزيوت المحروقة"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مساعد استحلاب ومثبت للرغوة الخفيفة"
+      },
+      {
+        "name": "عطر صناعي (حمضيات مقاوم للقلويات)",
+        "chemicalName": "Alkali-stable Fragrance",
+        "percentage": 0.2,
+        "role": "تلطيف رائحة المحلول القلوي"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formol / Preservative",
+        "percentage": 0.2,
+        "role": "حماية التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "ارتدِ قفازات مطاطية سميكة ونظارات واقية وكمامة قبل بدء العمل!",
+      "ضع كمية الماء (91.5%) البارد في وعاء بلاستيكي سميك يتحمل الحرارة (HDPE).",
+      "أضف قشور الصودا الكاوية NaOH (2.0%) ببطء وحذر إلى الماء (وليس العكس!) مع التحريك بحذر.",
+      "اترك المحلول ليبرد تماماً إلى درجة حرارة الغرفة (حوالي 25 درجة مئوية).",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (2.0%) وحرك حتى يمتزج.",
+      "أضف التكسابون SLES (3.0%) والبيتايين (1.0%) مع التقليب حتى يتجانسا.",
+      "أضف العطر المقاوم للقلويات (0.2%) والمادة الحافظة Formol (0.2%) واخلط جيداً.",
+      "عبئ في بخاخات مقاومة للمواد الكيميائية القلوية."
+    ],
+    "safetyWarnings": [
+      "تحذير شديد الخطورة: مادة NaOH كاوية للجلد والأعين وتسبب حروقاً خطيرة. يمنع لمسها باليد المجردة!",
+      "يمنع استخدام هذا المنتج تماماً على أواني الألمنيوم أو النحاس لأن القلويات الشديدة تتلف الألمنيوم."
+    ],
+    "formulationTips": [
+      "البوتيل جليكول هو السر الصناعي وراء إذابة بقع الزيت المحترقة في ثوانٍ دون الحاجة للفرك العنيف."
+    ],
+    "usageInstructions": "يرش على أسطح الفرن الباردة، ويترك لمدة 10-15 دقيقة ليتغلغل، ثم يمسح بقطعة قماش مبللة ويشطف بالماء.",
+    "recommendedPackaging": "عبوة HDPE معتمة مع بخاخ رغوي صناعي محكم الإغلاق.",
+    "isFeaturedPrompt": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 5,
+    "slug": "bleach-disinfectant-javel",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 5,
+    "title": "مبيض ومطهر (جافيل اقتصادي)",
+    "titleEn": "Economic Bleach & Disinfectant (Eau de Javel)",
+    "category": "bathrooms_toilets",
+    "categoryName": "حمامات ومراحيض",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "محلول التبييض والتطهير الفيروسي والبكتيري المنزلي الكلاسيكي، أساس نظافة الحمامات وتعقيم الأسطح والأقمشة البيضاء.",
+    "badge": "معقم ومبيض قوي",
+    "phLevel": "11.5 - 12.5 (قلوي للتثبيت)",
+    "phType": "alkaline",
+    "difficulty": "متوسط",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "2 ساعة",
+    "appearance": "سائل أصفر مخضر فاتح وشفاف برائحة الكلور المميزة",
+    "ingredients": [
+      {
+        "name": "ماء نقي خالي من المعادن والحديد",
+        "chemicalName": "Deionized Water",
+        "percentage": 84,
+        "role": "مذيب رئيسي نقي غير محفز لتحلل الكلور"
+      },
+      {
+        "name": "هيبوكلوريت الصوديوم NaOCl (مركز 15-16%)",
+        "chemicalName": "Sodium Hypochlorite Solution 15-16%",
+        "percentage": 16,
+        "role": "المادة الفعالة المؤكسدة للتبييض والقضاء على الجراثيم"
+      }
+    ],
+    "preparationSteps": [
+      "ارتدِ قفازات مطاطية، كمامة واقية، ونظارات لحماية العين من الرذاذ.",
+      "تأكد من أن الماء خالي من أملاح الحديد والمنجنيز لمنع تحلل الكلور.",
+      "ضع كامل كمية الماء (84.0%) في وعاء خلط من البلاستيك المعتم المقاوم للكلور (HDPE).",
+      "أضف محلول هيبوكلوريت الصوديوم المركز NaOCl (16.0%) ببطء شديد مع التحريك الهادئ.",
+      "استمر في التحريك لمدة 5 دقائق حتى يختلط المحلولان تماماً.",
+      "عبئ في قوارير بلاستيكية معتمة داكنة لحمايته من التحلل بالضوء."
+    ],
+    "safetyWarnings": [
+      "تحذير قاتل: لا تخلط ماء الجافيل نهائياً مع الأحماض (مثل الفلاش أو حمض الستريك) أو الأمونيا! ينتج غاز الكلورين السام القاتل!",
+      "لا يستخدم أبداً على الأقمشة الملونة أو الحرير أو الصوف."
+    ],
+    "formulationTips": [
+      "الكلور حساس لأشعة الشمس والحرارة؛ لذا يجب أن تكون عبوات التعبئة معتمة وسميكة."
+    ],
+    "usageInstructions": "يخفف بالماء بنسبة فنجان لكل 5 لتر ماء لمسح الأرضيات والمراحيض وتعقيمها.",
+    "recommendedPackaging": "قوارير HDPE معتمة ذات لون أصفر أو أبيض ثقيل مع سدادة أمان مقاومة للأطفال.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=eG8k92P4xLo"
+  },
+  {
+    "id": 6,
+    "slug": "laundry-liquid-marseille",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 6,
+    "title": "سائل غسل الملابس (مرسيليا)",
+    "titleEn": "Marseille Fabric Laundry Liquid",
+    "category": "laundry_fabrics",
+    "categoryName": "غسيل وأقمشة",
+    "imageUrl": "https://images.unsplash.com/photo-1545173168-9f1947eebb7f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "جل غسيل متطور للملابس برائحة صابون مرسيليا الفرنسية الشهيرة، ينظف الأنسجة بعمق ويحافظ على رونق الألوان ونعومة القماش.",
+    "badge": "عطر مرسيليا ونظافة عميقة",
+    "phLevel": "7.5 - 8.5 (قلوي خفيف مناسب للأقمشة)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "40 دقيقة",
+    "curingTime": "24 ساعة",
+    "appearance": "سائل كريمي أو أزرق بحري لزج ومستقر برائحة ناعمة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 87.4,
+        "role": "مذيب مائي"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 8,
+        "role": "منظف فعال للأوساخ وبقع الأنسجة"
+      },
+      {
+        "name": "Cocamide DEA (كمبرلان)",
+        "chemicalName": "Coconut Diethanolamide",
+        "percentage": 1.5,
+        "role": "تثبيت الرغوة وتنعيم الأنسجة"
+      },
+      {
+        "name": "Betaine (كوكاميدو بروبيل بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1.5,
+        "role": "تخفيض التوتر السطحي والعناية بالألياف الرقيقة"
+      },
+      {
+        "name": "ملح طعام نقي NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 1,
+        "role": "معدل لزوجة"
+      },
+      {
+        "name": "عطر صابون مرسيليا زيتي",
+        "chemicalName": "Marseille Soap Fragrance",
+        "percentage": 0.3,
+        "role": "عطر فرنسي فاخر يدوم على الملابس"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formalin solution",
+        "percentage": 0.2,
+        "role": "حفظ المنتج في درجات الحرارة المتغيرة"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (87.4%) في حوض الخلط.",
+      "أضف التكسابون SLES (8.0%) مع التقليب المستمر حتى يذوب كلياً.",
+      "أضف البيتايين (1.5%) والكمبرلان Cocamide DEA (1.5%) وحرك الخليط بهدوء.",
+      "أضف عطر صابون مرسيليا المميز (0.3%)، وقلّب حتى يتشتت العطر.",
+      "أضف المادة الحافظة Formol (0.2%) مع استمرار التقليب.",
+      "أضف ملح الطعام (1.0%) تدريجياً لرفع قوام السائل إلى لزوجة انسيابية ملائمة لغسالات الملابس.",
+      "اتركه يهدأ لـ 24 ساعة قبل التعبئة."
+    ],
+    "safetyWarnings": [
+      "تجنب ملامسة العينين أثناء التحضير والاستخدام.",
+      "يحفظ في مكان مظلل بعيداً عن أشعة الشمس المباشرة."
+    ],
+    "formulationTips": [
+      "التركيبة متوازنة الرغوة ومناسبة لكل من الغسالات الأوتوماتيكية والغسيل اليدوي."
+    ],
+    "usageInstructions": "يضاف مقدار غطاء واحد (60-80 مل) لكل دورة غسيل عادية في درج الغسالة.",
+    "recommendedPackaging": "جالون بلاستيكي سعة 2 إلى 3 لتر مع مقبض وغطاء مدرج.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 7,
+    "slug": "floor-perfumer-sanibo",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 7,
+    "title": "معطر الأرضيات \"صانيبو\"",
+    "titleEn": "Sanibo Scented Floor Cleaner & Freshener",
+    "category": "floors_surfaces",
+    "categoryName": "أرضيات وأسطح",
+    "imageUrl": "https://images.unsplash.com/photo-1527515637462-cff94eecc1ac?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "المنظف والمعطر المنزلي الشهير لجميع أنواع البلاط والسيراميك والرخام، يترك لمعاناً براقاً وعبقاً عطرياً يستمر طويلاً.",
+    "badge": "معطر فواح فائق الانتعاش",
+    "phLevel": "7.0 - 7.5 (متعادل آمن لكل الأرضيات)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "12 ساعة",
+    "appearance": "سائل شفاف لامع وملون بألوان زاهية برائحة قوية فواحة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 94.2,
+        "role": "قاعدة مائية رئيسية"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 3,
+        "role": "تنظيف خفيف للأتربة ومستحلب للمواد العطرية"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مساعد استحلاب ومحسن مظهر"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 1,
+        "role": "ضبط اللزوجة الخفيفة للمنتج"
+      },
+      {
+        "name": "عطر فواح (صنوبر / خزامى / ورد)",
+        "chemicalName": "High-Fixation Fragrance Oil",
+        "percentage": 0.5,
+        "role": "انتشار عطري مكثف يملأ المنزل"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formol / Preservative",
+        "percentage": 0.2,
+        "role": "حفظ جودة المنتج من التلف"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (94.2%) في خزان الخلط.",
+      "أضف التكسابون SLES (3.0%) مع التقليب حتى يذوب تماماً.",
+      "أضف البيتايين (1.0%) وحرك لدقيقتين.",
+      "أضف العطر الفواح (0.5%) حيث يلعب التكسابون والبيتايين دور مستحلب يذيب الزيت العطري.",
+      "أضف المادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "أضف ملح الطعام (1.0%) المحلول مسبقاً لضبط قوام السائل.",
+      "أضف قطرات من ملون مائي حسب الرائحة، واتركه يرتاح ليلة كاملة."
+    ],
+    "safetyWarnings": [
+      "يحفظ بعيداً عن أيدي الأطفال والأطعمة والمشروبات."
+    ],
+    "formulationTips": [
+      "صانيبو يعتمد أساساً على جودة وثبات العطر وسرعة جفافه على الأرضيات دون ترك تجيير."
+    ],
+    "usageInstructions": "يضاف غطاءان من المنتج إلى سطل ماء (حوالي 5 لتر) وتمسح به الأرضيات بالممسحة.",
+    "recommendedPackaging": "قنينة بلاستيكية شفافة جذابة سعة 1 لتر أو 1.5 لتر برأس مائل.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0"
+  },
+  {
+    "id": 8,
+    "slug": "multipurpose-floor-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 8,
+    "title": "منظف الأرضيات متعدد الاستعمالات",
+    "titleEn": "Multi-Surface All-Purpose Cleaner",
+    "category": "floors_surfaces",
+    "categoryName": "أرضيات وأسطح",
+    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة احترافية متطورة تحتوي على البوتيل جليكول لإزالة الأوساخ المستعصية والدهون الدقيقة على السيراميك والبورسلين والأسطح الصلبة.",
+    "badge": "تنظيف عميق وإزالة دهون الأسطح",
+    "phLevel": "7.5 - 8.2 (متعادل مائل للقلوية الخفيفة)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "8 ساعات",
+    "appearance": "سائل نقي ملون قليل اللزوجة وسريع الشطف والتجفيف",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 90.9,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 6,
+        "role": "مادة فعالة سطحية لتفتيت الأتربة والأوساخ"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "معزز تنظيف وحماية للأسطح الحساسة"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol / Solvent",
+        "percentage": 1,
+        "role": "مذيب قوي للشحوم وبقع الأحذية وآثار الأقدام"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "ضبط انسيابية السائل"
+      },
+      {
+        "name": "عطر منعش (حمضيات أو زهور المحيط)",
+        "chemicalName": "Fresh Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة نظافة ممتدة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (90.9%) في وعاء الإعداد.",
+      "أضف التكسابون SLES (6.0%) مع التحريك الجيد والمستمر حتى تمام الذوبان.",
+      "أضف البيتايين (1.0%) واستمر في التحريك لمدة دقيقتين.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (1.0%) لحل بقع الدهون.",
+      "أضف العطر (0.3%) والمادة الحافظة Formol (0.2%) واخلطهما جيداً.",
+      "أضف ملح الطعام (0.5%) تدريجياً لضبط القوام.",
+      "أضف لمسة لون واخلط حتى تتجانس التركيبة بالكامل."
+    ],
+    "safetyWarnings": [
+      "يستخدم في أماكن جيدة التهوية وتجنب ملامسته للأعين."
+    ],
+    "formulationTips": [
+      "البوتيل جليكول يمنع التصاق الأتربة مجدداً بالسيراميك ويسرع زمن جفاف الأرضيات بعد المسح."
+    ],
+    "usageInstructions": "خفف نصف كوب من المنظف في 5 لترات من الماء الدافئ وامسح الأرضيات والطاولات.",
+    "recommendedPackaging": "جالون سعة 1 لتر أو 3 لتر مصنوع من البلاستيك الشفاف مع غطاء مكيال.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 9,
+    "slug": "glass-and-mirror-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 9,
+    "title": "منظف الزجاج والمرايا",
+    "titleEn": "Streak-Free Glass & Mirror Cleaner",
+    "category": "floors_surfaces",
+    "categoryName": "أرضيات وأسطح",
+    "imageUrl": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة كحولية متطايرة فائقة النقاء تمنح الزجاج والمرايا والأسطح المصقولة بريقاً كريستالياً بدون أي خطوط أو لمعان متبقي.",
+    "badge": "تجفيف فوري بدون خطوط تجيير",
+    "phLevel": "6.5 - 7.5 (متعادل آمن على الزجاج)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "ساعتان",
+    "appearance": "سائل أزرق مائي شفاف متطاير سريع الجفاف",
+    "ingredients": [
+      {
+        "name": "ماء منقى أو مقطر",
+        "chemicalName": "Deionized Water",
+        "percentage": 80,
+        "role": "مذيب نقي تماماً لعدم ترك أي شوائب جيرية"
+      },
+      {
+        "name": "إيثانول أو إيزوبروبانول (كحول نقي 96%)",
+        "chemicalName": "Ethanol or Isopropanol (IPA)",
+        "percentage": 15,
+        "role": "مذيب كحولي متطاير سريع الجفاف ومذيب للدهون والبصمات"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إزالة بصمات الأصابع والشحوم ومنع التغبيش"
+      },
+      {
+        "name": "SLES أو Betaine (مادة فعالة سطحية)",
+        "chemicalName": "Surfactant (SLES or Betaine)",
+        "percentage": 0.5,
+        "role": "تخفيض الشد السطحي للماء وتسهيل انزلاق الممسحة"
+      },
+      {
+        "name": "عطر منعش خفيف",
+        "chemicalName": "Light Fresh Scent",
+        "percentage": 0.2,
+        "role": "رائحة نقاء لطيفة غير مزعجة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      },
+      {
+        "name": "ملون أزرق سائل (Blue Dye)",
+        "chemicalName": "CI 42090 (Blue Dye)",
+        "percentage": 0.1,
+        "role": "إعطاء اللون الأزرق الكلاسيكي لمنظف الزجاج"
+      }
+    ],
+    "preparationSteps": [
+      "تأكد من استخدام ماء مقطر (80.0%) لمنع ظهور بقع كلسية.",
+      "ضع كمية الماء في وعاء التحضير.",
+      "أضف الكحول (إيثانول أو IPA بنسبة 15.0%) ببطء مع التحريك بعيداً عن اللهب.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (1.0%) لإزالة البصمات.",
+      "أضف SLES أو Betaine (0.5%) فقط لتفادي التجيير.",
+      "أضف العطر (0.2%) والمادة الحافظة Formol (0.2%).",
+      "أضف الملون الأزرق (0.1%) للحصول على اللون الأزرق السماوي المألوف."
+    ],
+    "safetyWarnings": [
+      "يحتوي على كحول متطاير وقابل للاشتعال: احفظ المنتج بعيداً عن النار والشرر."
+    ],
+    "formulationTips": [
+      "الإيزوبروبانول (IPA) يتبخر في ثوانٍ معدودة ولا يترك أي أثر إطلاقاً على المرايا."
+    ],
+    "usageInstructions": "يرش رذاذ خفيف على الزجاج أو المرآة، ثم يمسح فوراً بورق نظيف أو فوطة مايكروفايبر جافة.",
+    "recommendedPackaging": "قارورة بخاخ رذاذي سعة 500 أو 650 مل مع فوهة رش رقيقة.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=KzL2p4X9M1k"
+  },
+  {
+    "id": 10,
+    "slug": "bathroom-descaler-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 10,
+    "title": "منظف الحمام والمراحيض (مزيل تكلسات)",
+    "titleEn": "Bathroom & Toilet Anti-Limescale Cleaner",
+    "category": "bathrooms_toilets",
+    "categoryName": "حمامات ومراحيض",
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة حمضية آمنة وفعالة تعتمد على حمض الستريك لإذابة ترسبات الكلس الصعبة، الصدأ، وتكلسات المياه على خلاطات الحمام والمراحيض.",
+    "badge": "حمضي مزيل للتكلسات والصدأ",
+    "phLevel": "2.5 - 3.2 (حمضي فعال وآمن على الأسطح)",
+    "phType": "acidic",
+    "difficulty": "متوسط",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل شفاف حمضي خفيف الرغوة بنكهة ليمونية منعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 92.4,
+        "role": "مذيب مائي"
+      },
+      {
+        "name": "حمض الستريك (ملح الليمون)",
+        "chemicalName": "Citric Acid (Food / Technical Grade)",
+        "percentage": 3,
+        "role": "حمض عضوي يحل التكلسات الجيرية وبقع الصدأ والترسبات الملحية"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "إزالة الأوساخ الدهنية والرغوة"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مستحلب ثابت في الوسط الحمضي"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إذابة بقايا الصابون والزيوت والشامبو العالقة"
+      },
+      {
+        "name": "عطر منعش مقاوم للأحماض (ليمون أو صنوبر)",
+        "chemicalName": "Acid-stable Lemon Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة منعشة تغطي رائحة الرطوبة والتكلسات"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حماية كيميائية من التعفن"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (92.4%) في وعاء خلط بلاستيكي مقاوم للأحماض.",
+      "أضف بلورات حمض الستريك (3.0%) إلى الماء مع التحريك المستمر حتى تذوب تماماً.",
+      "أضف مذيب البوتيل جليكول (1.0%) لتفتيت بقايا الصابون.",
+      "أضف التكسابون SLES (2.0%) والبيتايين (1.0%) مع التقليب المستمر بهدوء.",
+      "أضف العطر المقاوم للأحماض (0.3%) والمادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "تأكد من إذابة كل المكونات وعبئ المنتج في عبوات بخاخة."
+    ],
+    "safetyWarnings": [
+      "تجنب ملامسة المحلول المباشرة للعينين أو الجروح.",
+      "لا تستخدم هذا المنتج على الرخام الطبيعي غير المعزول لأن الأحماض تتفاعل مع كربونات الكالسيوم."
+    ],
+    "formulationTips": [
+      "حمض الستريك آمن بيئياً ولا يصدر أبخرة خانقة، ويعيد لمعان خلاطات الكروم والستانلس ستيل."
+    ],
+    "usageInstructions": "يرش مباشرة على خلاطات المياه وحوض الاستحمام وبلاط الحمام، يترك لمدة 3-5 دقائق، ثم يفرك ويشطف بالماء.",
+    "recommendedPackaging": "عبوة بخاخ بيضاء أو شفافة سعة 750 مل ذات مقبض مريح.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 11,
+    "slug": "dishwashing-liquid-sulfonic-free",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 11,
+    "title": "سائل غسيل الأواني بدون حمض السلفونيك",
+    "titleEn": "Sulfonic-Free Gentle Dishwashing Liquid",
+    "category": "dishes_kitchen",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1585837575652-267c041d77d4?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة عصرية لطيفة للغاية على الأيدي الحساسة، خالية تماماً من حمض السلفونيك الثقيل ومصممة للتنظيف الآمن والصحي.",
+    "badge": "خالي من السلفونيك - لطيف جداً",
+    "phLevel": "6.8 - 7.2 (متعادل مثالي لليدين الحساستين)",
+    "phType": "neutral_skin",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "12 ساعة",
+    "appearance": "سائل مائي لزج ناعم فائق النقاء والنظافة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 95.4,
+        "role": "مذيب مائي نقي"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "قاعدة تنظيف خفيفة وغير مهيجة"
+      },
+      {
+        "name": "Cocamide DEA (كمبرلان)",
+        "chemicalName": "Coconut Diethanolamide",
+        "percentage": 0.5,
+        "role": "معزز رغوة ورعاية للجلد"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "مذيب دهون ذكي يعوض غياب السلفونيك دون تهييج"
+      },
+      {
+        "name": "ملح طعام نقي NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "تعديل طفيف للقوام"
+      },
+      {
+        "name": "عطر لطيف (تفاح أو ليمون طبيعي)",
+        "chemicalName": "Gentle Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة منعشة محببة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كامل كمية الماء (95.4%) في حوض المزج.",
+      "أضف التكسابون SLES (2.0%) مع التحريك الهادئ حتى يذوب تماماً.",
+      "أضف Cocamide DEA (0.5%) وحرك ببطء لمدة 3 دقائق.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (1.0%) لإذابة الدهون دون الحاجة إلى السلفونيك.",
+      "أضف العطر (0.3%) والمادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "أضف ملح الطعام (0.5%) لضبط اللزوجة الخفيفة الانسيابية.",
+      "اترك السائل ليرتاح ويصفو لونه قبل التعبئة في الزجاجات."
+    ],
+    "safetyWarnings": [
+      "تركيبة خفيفة ولطيفة، تحفظ كأي منظف منزلي بعيداً عن أيدي الأطفال والأطعمة."
+    ],
+    "formulationTips": [
+      "مناسبة جداً لأصحاب البشرة الحساسة وغسيل رضاعات الأطفال والأكواب الزجاجية."
+    ],
+    "usageInstructions": "توضع كمية مناسبة على الإسفنجة لغسل الأواني والأكواب ثم تشطف بالماء الجاري.",
+    "recommendedPackaging": "عبوة شفافة سعة 500 مل أو 1000 مل مع صمام تنقيط مريح.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=u9GqH8jKzY4"
+  },
+  {
+    "id": 12,
+    "slug": "heavy-cement-stain-remover",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 12,
+    "title": "منظف قوي للإسمنت والشوائب (فلاش صناعي)",
+    "titleEn": "Heavy Cement & Mineral Scale Remover (Muriatic / HCl Flash)",
+    "category": "floors_surfaces",
+    "categoryName": "أرضيات وأسطح",
+    "imageUrl": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف حمضي كيميائي فائق القوة مخصص للمقاولين ومشاريع ما بعد البناء لإذابة بقايا الإسمنت، الترويبة، والترسبات الحجرية المستعصية.",
+    "badge": "حمضي شديد القوة - صناعي",
+    "phLevel": "0.5 - 1.5 (حمضي عنيف فلاش)",
+    "phType": "acidic",
+    "difficulty": "متقدم (يتطلب حذر)",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "ساعتان",
+    "appearance": "سائل مائي شفاف أو مائل للصفرة الخفيفة مع أبخرة حمضية مميزة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 83.5,
+        "role": "مذيب ومخفف للحمض"
+      },
+      {
+        "name": "حمض الهيدروكلوريك HCl (روح الملح مركز 30-33%)",
+        "chemicalName": "Hydrochloric Acid (Muriatic Acid)",
+        "percentage": 15,
+        "role": "حمض معدني قوي جداً يذيب الإسمنت وكربونات الكالسيوم فوراً"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 1.5,
+        "role": "عامل ترطيب سطحي يساعد الحمض على التغلغل في مسام الإسمنت"
+      }
+    ],
+    "preparationSteps": [
+      "ارتدِ بدلة واقية، قفازات ثقيلة من النتريل، نظارات أمان، وكمامة تنفسية خاصة بالأبخرة الحمضية!",
+      "ضع كامل كمية الماء (83.5%) في برميل خلط بلاستيكي مقاوم للأحماض (HDPE).",
+      "قاعدة ذهبية: صب حمض الهيدروكلوريك HCl (15.0%) ببطء شديد على الماء، ولا تصب الماء على الحمض أبداً!",
+      "أضف مادة التكسابون SLES (1.5%) بحذر مع التقليب الهادئ بعصا بلاستيكية حتى تتوزع بالتساوي.",
+      "تجنب تماماً استنشاق أي أبخرة متصاعدة وتأكد من العمل في فضاء مفتوح أو هواء طلق.",
+      "عبئ السائل بحذر في عبوات بلاستيكية سميكة مزودة بغطاء أمان محكم."
+    ],
+    "safetyWarnings": [
+      "خطر داهم: حمض الهيدروكلوريك يسبب حروقاً شديدة للجلد والعينين، وتؤدي أبخرته إلى تهيج الجهاز التنفسي.",
+      "ممنوع منعاً باتاً استخدامه على الرخام أو خلاطات الكروم والمعادن.",
+      "لا تخلطه مع ماء الجافيل (الكلور) إطلاقاً، فالخلط بينهما ينتج غاز الكلور القاتل!"
+    ],
+    "formulationTips": [
+      "إضافة 1.5% تكسابون تحسن من قدرة الحمض على الالتصاق بجزيئات الإسمنت وتقليل تطاير الرذاذ."
+    ],
+    "usageInstructions": "يبلل المكان بالماء أولاً، ثم يوضع المنظف بفرشاة بلاستيكية على بقايا الإسمنت، يترك لدقيقتين ثم يشطف بكميات وفيرة جداً من الماء.",
+    "recommendedPackaging": "جالونات HDPE سميكة جداً مع علامات تحذير خطر واضحة وغطاء أمان للأطفال.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 13,
+    "slug": "toilet-cleaning-gel",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 13,
+    "title": "جل تنظيف المراحيض",
+    "titleEn": "Viscous Toilet Descaling & Cleaning Gel",
+    "category": "bathrooms_toilets",
+    "categoryName": "حمامات ومراحيض",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "جل حمضي كثيف ولزج يلتصق بجدران وحواف المرحاض لإزالة الاصفرار والتكلسات الجيرية وقتل الجراثيم تحت خط الماء.",
+    "badge": "جل كثيف يلتصق بالجدران",
+    "phLevel": "2.5 - 3.5 (حمضي مزيل للاصفرار)",
+    "phType": "acidic",
+    "difficulty": "متوسط",
+    "preparationTime": "45 دقيقة",
+    "curingTime": "24 ساعة حتى يكتمل ثبات الجل",
+    "appearance": "جل سميك أزرق أو أخضر انسيابي برائحة منعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 92,
+        "role": "قاعدة مائية"
+      },
+      {
+        "name": "حمض اللاكتيك أو حمض الستريك",
+        "chemicalName": "Lactic Acid or Citric Acid",
+        "percentage": 3,
+        "role": "إذابة الاصفرار والترسبات الجيرية وتطهير الحمام"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "توليد رغوة وتنظيف الرواسب العضوية"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مستحلب ثابت في الوسط الحمضي"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "مذيب قوي للشحوم وبقع الصابون العالقة"
+      },
+      {
+        "name": "مادة مثخنة (صمغ الزانثان Xanthan Gum أو CMC)",
+        "chemicalName": "Xanthan Gum / CMC Thickener",
+        "percentage": 0.5,
+        "role": "إعطاء قوام الجل الكثيف الذي يلتصق بالجدران الرأسية"
+      },
+      {
+        "name": "عطر منعش مقاوم للأحماض (صنوبر أو ليمون)",
+        "chemicalName": "Acid-stable Fragrance",
+        "percentage": 0.2,
+        "role": "رائحة نظافة وانتعاش قوية"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "رش صمغ الزانثان Xanthan Gum أو CMC (0.5%) في قليل من الماء مع التحريك السريع لمنع التكتل واتركه ينتفخ لمدة 15 دقيقة.",
+      "في الوعاء الرئيسي، ضع باقي كمية الماء (92.0%).",
+      "أضف حمض الستريك أو اللاكتيك (3.0%) وحركه حتى يذوب تماماً.",
+      "أضف التكسابون SLES (2.0%) والبيتايين (1.0%) ومذيب البوتيل جليكول (1.0%) وقلب جيداً.",
+      "أضف محلول صمغ الزانثان إلى الوعاء واخلط جيداً لرفع لزوجة المزيج.",
+      "أضف العطر (0.2%) والمادة الحافظة Formol (0.2%) وقطرة ملون.",
+      "اترك الجل ليرتاح لمدة 24 ساعة ليستقر القوام الهلامي اللزج."
+    ],
+    "safetyWarnings": [
+      "تجنب ملامسة العينين؛ ويحفظ بعيداً عن متناول الأطفال وأشعة الشمس."
+    ],
+    "formulationTips": [
+      "لزوجة الجل تبطئ انزلاق السائل على الجدار الرأسي للمرحاض، مما يمنح الحمض وقتاً كافياً لإذابة الكلس."
+    ],
+    "usageInstructions": "يوزع الجل بواسطة العنق المائل تحت حافة كرسي المرحاض، يترك لـ 10 دقائق، ثم يفرك بفرشاة ويشطف.",
+    "recommendedPackaging": "قارورة بلاستيكية مع عنق مائل ومنحني (Duck neck).",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU"
+  },
+  {
+    "id": 14,
+    "slug": "pre-wash-stain-remover",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 14,
+    "title": "مزيل بقع قبل الغسيل",
+    "titleEn": "Pre-Wash Laundry Stain Remover Spray",
+    "category": "laundry_fabrics",
+    "categoryName": "غسيل وأقمشة",
+    "imageUrl": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "بخاخ معزز فائق التغلغل لإزالة بقع الزيوت، الشحوم، الصلصات، والياقات والأساور المستعصية قبل إدخالها للغسالة.",
+    "badge": "تفتيت الدهون وبقع الياقات",
+    "phLevel": "8.0 - 8.8 (قلوي خفيف لتفكيك الشحوم)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "30 دقيقة",
+    "curingTime": "ساعتان",
+    "appearance": "سائل رائق خفيف الرغوة سريع الامتصاص في مسام القماش",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 86.3,
+        "role": "حامل مائي"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 5,
+        "role": "مستحلب قوي للبقع الدهنية"
+      },
+      {
+        "name": "إيثانول (كحول نقي 96%)",
+        "chemicalName": "Ethanol (Alcohol)",
+        "percentage": 5,
+        "role": "مذيب بقع الحبر والمكياج والأصباغ المتطايرة"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 2,
+        "role": "المذيب الأقوى لإذابة زيوت الطبخ والدهون الصعبة"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "حماية أنسجة القماش الحساسة من التلف"
+      },
+      {
+        "name": "عطر خفيف لطيف",
+        "chemicalName": "Fabric Friendly Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة نظافة منعشة للملابس"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (86.3%) في وعاء المزج.",
+      "أضف التكسابون SLES (5.0%) مع التقليب حتى يذوب في الماء.",
+      "أضف البيتايين (1.0%) واستمر في التحريك لمدة دقيقتين.",
+      "أضف الإيثانول (5.0%) ببطء مع التقليب بعيداً عن مصادر الحرارة.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (2.0%) لتفتيت الشحوم الجافة.",
+      "أضف العطر (0.3%) والمادة الحافظة Formol (0.2%) واخلط جيداً.",
+      "عبئ المنتج في عبوة رش رذاذية."
+    ],
+    "safetyWarnings": [
+      "يحتوي على كحول ومذيبات؛ يحفظ بعيداً عن مصادر الشرر والنار.",
+      "يُفضل اختبار المنتج على رقعة غير ظاهرة من القماش الحساس قبل الاستخدام الواسع."
+    ],
+    "formulationTips": [
+      "مزيج الإيثانول مع البوتيل جليكول والتكسابون يخلق ثلاثياً خارقاً ضد الدهون المستعصية."
+    ],
+    "usageInstructions": "يرش مباشرة على البقعة المستعصية، يترك لمدة 5 إلى 10 دقائق، ثم يوضع في الغسالة مع دورة الغسيل العادية.",
+    "recommendedPackaging": "عبوة بخاخ مزودة بمضخة رش قوية سعة 500 مل.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 15,
+    "slug": "wood-furniture-polish",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 15,
+    "title": "ملمع الخشب والأثاث",
+    "titleEn": "Natural Wax & Oil Wood Furniture Polish",
+    "category": "leather_wood_special",
+    "categoryName": "أثاث وجلود وخشب",
+    "imageUrl": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة زيتية وشمعية تقليدية فاخرة خالية من الماء، تغذي مسام الخشب الطبيعي وتحميه من الجفاف والتشقق وتمنحه لمعاناً دافئاً كأثاث القصور.",
+    "badge": "تركيبة شمعية وزيتية ملكية",
+    "phLevel": "غير مائي (وسط زيتي طبيعي نقي)",
+    "phType": "neutral",
+    "difficulty": "متوسط",
+    "preparationTime": "40 دقيقة",
+    "curingTime": "ساعتان ليبرد ويتجانس الشمع",
+    "appearance": "زيت كهرماني أو سائل شمعي ذهبي ناعم برائحة خشب الصندل العطرية",
+    "ingredients": [
+      {
+        "name": "زيت البرافين الخفيف (White Mineral Oil)",
+        "chemicalName": "Light Paraffin / Mineral Oil",
+        "percentage": 60,
+        "role": "زيت نقي خفيف يغذي خشب الأثاث ويمنع جفافه ويضفي لمعاناً عميقاً"
+      },
+      {
+        "name": "تربنتين طبيعي أو معدني (Turpentine)",
+        "chemicalName": "Gum Turpentine / Mineral Spirits",
+        "percentage": 20,
+        "role": "مذيب شمعي عميق التغلغل ينظف طبقات الشمع القديم من الخشب"
+      },
+      {
+        "name": "شمع العسل النقي أو شمع الكرنوبا",
+        "chemicalName": "Beeswax or Carnauba Wax",
+        "percentage": 10,
+        "role": "طبقة حماية عازلة للرطوبة ومقاومة لخدوش الخشب السطحية"
+      },
+      {
+        "name": "عطر خشبي فاخر (صندل / أرز)",
+        "chemicalName": "Cedarwood or Sandalwood Oil",
+        "percentage": 0.5,
+        "role": "إضفاء عبق خشب الأرز والصندل الفاخر"
+      },
+      {
+        "name": "مضاد أكسدة (BHT أو فيتامين E)",
+        "chemicalName": "BHT / Tocopherol (Antioxidant)",
+        "percentage": 0.5,
+        "role": "حماية الزيوت والشمع من التزنخ بمرور الزمن"
+      }
+    ],
+    "preparationSteps": [
+      "هذه التركيبة زيتية 100% ولا يدخل فيها الماء إطلاقاً، وتتطلب إذابة الشمع في حمام مائي غير مباشر.",
+      "ضع شمع العسل أو الكرنوبا (10.0%) في وعاء فوق حمام مائي ساخن حتى يذوب تماماً.",
+      "أضف زيت البرافين الخفيف (60.0%) بحذر وببطء إلى الشمع الذائب مع التحريك.",
+      "ارفع الوعاء عن الحمام المائي ودع المزيج يبرد إلى حدود 45-50 درجة مئوية.",
+      "أضف التربنتين (20.0%) ببطء مع التحريك بعيداً عن أي لهب لإبقاء الشمع في حالة انسيابية.",
+      "أضف مضاد الأكسدة BHT (0.5%) والعطر الخشبي (0.5%) وقلب المزيج حتى يتجانس.",
+      "صب الملمع وهو فاتر في عبوات معدنية أو بلاستيكية سميكة واتركه ليبرد."
+    ],
+    "safetyWarnings": [
+      "تحذير من الحريق: التربنتين والشمع والزيوت مواد قابلة للاشتعال. يمنع التسخين المباشر على النار، واستخدم فقط حمام مائي دافئ!"
+    ],
+    "formulationTips": [
+      "شمع العسل وشمع الكرنوبا يعطيان طبقة حماية عازلة للماء تمنع تشوه الخشب وتخفي الخدوش الدقيقة."
+    ],
+    "usageInstructions": "ضع قطرات قليلة على فوطة قطنية ناعمة وجافة، امسح بها سطح الخشب باتجاه عروق الخشب الطبيعي، ثم ادعك بقطعة قماش جافة.",
+    "recommendedPackaging": "قارورة داكنة أو علبة معدنية تقليدية سعة 250 أو 500 مل.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=yW2k_3pB7Qk"
+  },
+  {
+    "id": 16,
+    "slug": "leather-shoes-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 16,
+    "title": "منظف الأحذية الجلدية",
+    "titleEn": "Gentle Leather Shoes & Handbags Cleaner",
+    "category": "leather_wood_special",
+    "categoryName": "أثاث وجلود وخشب",
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف متوازن ودقيق ينظف مسام الجلود الطبيعية والصناعية ويزيل الأتربة وبقع الطين دون أن يسبب تشقق الجلد أو جفافه.",
+    "badge": "تنظيف وعناية بالجلود الطبيعية",
+    "phLevel": "6.5 - 7.0 (متعادل آمن لا يؤذي الجلود)",
+    "phType": "neutral_skin",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل رغوي خفيف ناصع الشفافية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 96,
+        "role": "حامل مائي نقي"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "إزالة الأتربة والشوائب برغوة محسوبة"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إذابة طبقة الدهون والأوساخ العالقة في مسام الجلد"
+      },
+      {
+        "name": "ملح طعام نقي NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "تثبيت اللزوجة الخفيفة"
+      },
+      {
+        "name": "عطر راقي لطيف",
+        "chemicalName": "Leather / Fresh Fragrance",
+        "percentage": 0.3,
+        "role": "إعطاء رائحة منعشة وفاخرة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (96.0%) في وعاء التحضير.",
+      "أضف التكسابون SLES (2.0%) مع التقليب الهادئ حتى يذوب تماماً.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (1.0%) وحرك لمدة دقيقتين.",
+      "أضف العطر (0.3%) والمادة الحافظة Formol (0.2%) وامزجهما جيداً.",
+      "أضف ملح الطعام (0.5%) لضبط القوام الانسيابي.",
+      "عبئ المحلول في عبوة برأس رغوي (Foam Pump) لتوليد رغوة جافة تناسب الجلود."
+    ],
+    "safetyWarnings": [
+      "لا تغمر الحذاء بالماء أبداً؛ نظف السطح الخارجي بواسطة الرغوة فقط.",
+      "لا يناسب الجلود المقلوبة (الشمواه)."
+    ],
+    "formulationTips": [
+      "النسبة المنخفضة من التكسابون (2%) تحمي صبغة الجلد الطبيعي من الزوال."
+    ],
+    "usageInstructions": "توضع الرغوة على إسفنجة ناعمة أو فرشاة، يفرك الجلد بحركات دائرية خفيفة، ثم يمسح الفائض بفوطة قطنية مبللة قليلاً.",
+    "recommendedPackaging": "قارورة رغوية (Foamer Bottle) سعة 150 أو 200 مل.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 17,
+    "slug": "daily-bathroom-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 17,
+    "title": "منظف الحمام اليومي",
+    "titleEn": "Daily Bathroom & Tile Surface Cleaner",
+    "category": "bathrooms_toilets",
+    "categoryName": "حمامات ومراحيض",
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "بخاخ يومي منعش وسريع يمنع تراكم التكلسات، ويزيل رذاذ الصابون، ويبقي الحمام والمغاسل براقة ومعطرة يومياً دون مجهود.",
+    "badge": "تنظيف يومي سريع ومعطر",
+    "phLevel": "6.8 - 7.5 (متعادل آمن لكل التركيبات والكروم)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل رائق سماوي أو وردي خفيف برائحة فواحة جداً",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 93.9,
+        "role": "مذيب مائي"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 3,
+        "role": "تنظيف الأوساخ اليومية والأتربة"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مستحلب ناعم ومثبت للرائحة"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "تفتيت بقع معجون الأسنان وبقايا الصابون والشامبو"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "تعديل القوام"
+      },
+      {
+        "name": "عطر نسيم البحر أو اللافندر",
+        "chemicalName": "Marine / Lavender Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة حمام فندقي منعشة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع الماء (93.9%) في وعاء المزج.",
+      "أضف التكسابون SLES (3.0%) وحرك حتى يذوب تماماً.",
+      "أضف البيتايين (1.0%) ومذيب البوتيل جليكول (1.0%) مع التقليب المستمر.",
+      "أضف العطر الفواح (0.3%) والمادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "أضف ملح الطعام (0.5%) لضبط القوام.",
+      "أضف قطرة ملون وعبئ في عبوات بخاخة."
+    ],
+    "safetyWarnings": [
+      "يحفظ بعيداً عن متناول الأطفال وتجنب ملامسة الرذاذ للعينين."
+    ],
+    "formulationTips": [
+      "آمن 100% للاستخدام اليومي على أسطح الأكريليك، البورسلين، والكروم اللامع دون أي خوف من التآكل."
+    ],
+    "usageInstructions": "يرش على حوض الاستحمام، المغسلة، والبلاط بعد الاستحمام، يمسح بإسفنجة رطبة ويشطف سريعاً.",
+    "recommendedPackaging": "عبوة بخاخ سعة 500 أو 750 مل ذات تصميم مريح.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=u78o1lVqJ_M"
+  },
+  {
+    "id": 18,
+    "slug": "household-insect-repellent-spray",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 18,
+    "title": "بخاخ طارد الحشرات المنزلية",
+    "titleEn": "Natural Essential Oil Insect Repellent Spray",
+    "category": "floors_surfaces",
+    "categoryName": "أرضيات وأسطح",
+    "imageUrl": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "بخاخ منزلي آمن يعتمد على الزيوت الطيارة الطبيعية الطاردة للبعوض والذباب والنمل دون استخدام مبيدات حشرية كيميائية سامة.",
+    "badge": "طبيعي وآمن بالزيوت الطيارة",
+    "phLevel": "6.5 - 7.5 (متعادل)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "مستحلب مائي حليبي خفيف برائحة الليمون جراس والسترونيلا القوية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 88.8,
+        "role": "قاعدة مائية"
+      },
+      {
+        "name": "إيثانول (كحول نقي 96%)",
+        "chemicalName": "Ethanol (Alcohol)",
+        "percentage": 8,
+        "role": "مذيب للزيوت الطاردة ومسرع لانتشار الرائحة في الهواء"
+      },
+      {
+        "name": "زيت طارد طبيعي (سترونيلا أو ليمون جراس)",
+        "chemicalName": "Citronella / Lemongrass Essential Oil",
+        "percentage": 1.5,
+        "role": "الزيت الفعال الفطري في طرد وإبعاد الحشرات الطائرة والزاحفة"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 1,
+        "role": "مستحلب يذيب الزيت العطري في الماء ويمنع انفصاله"
+      },
+      {
+        "name": "عطر إضافي لطيف (نعناع أو خزامي)",
+        "chemicalName": "Complementary Scent (Lavender/Mint)",
+        "percentage": 0.4,
+        "role": "تلطيف حدة رائحة السترونيلا وجعلها منعشة للمنزل"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء صغير جانبي، اخلط زيت السترونيلا (1.5%) والعطر (0.4%) مع الكحول (8.0%) والتكسابون (1.0%) حتى يذوب الزيت تماماً.",
+      "في الوعاء الرئيسي، ضع كمية الماء (88.8%).",
+      "أضف الخليط العطري ببطء إلى الماء مع التحريك المستمر.",
+      "أضف المادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "عبئ المحلول في عبوة رش رذاذية محكمة الغلق."
+    ],
+    "safetyWarnings": [
+      "تجنب رش المحلول مباشرة على أواني الطعام أو ألعاب الأطفال أو أقفاص الحيوانات الأليفة."
+    ],
+    "formulationTips": [
+      "زيت السترونيلا وزيت الليمون جراس يحتويان طبيعياً على مركب Citronellal و Geraniol وهي مواد يكرهها البعوض والذباب ويفر منها فوراً."
+    ],
+    "usageInstructions": "يرش حول حواف النوافذ، الأبواب، مداخل المنزل، والزوايا المظلمة لطرد الحشرات، ويرج جيداً قبل كل استخدام.",
+    "recommendedPackaging": "عبوة بخاخ سعة 500 مل بلاستيكية معتمة.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 19,
+    "slug": "trash-can-odor-eliminator",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 19,
+    "title": "مزيل الروائح للقمامة والمصارف",
+    "titleEn": "Trash Can & Drain Odor Neutralizer",
+    "category": "dishes_kitchen",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "بخاخ مضاد للبكتيريا ومزيل للروائح الكريهة يقضي على بكتيريا التعفن في سلات المهملات ومواسير الصرف ويعطر المكان برائحة حمضيات منعشة.",
+    "badge": "مضاد للتعفن والروائح الكريهة",
+    "phLevel": "6.5 - 7.5 (متعادل)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "ساعتان",
+    "appearance": "سائل رائق مائل للصفرة الفاتحة برائحة البرتقال والليمون المنعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 93,
+        "role": "قاعدة مائية"
+      },
+      {
+        "name": "إيثانول (كحول نقي 96%)",
+        "chemicalName": "Ethanol (Alcohol)",
+        "percentage": 5,
+        "role": "تطهير مضاد للبكتيريا ومسرع للجفاف والتطاير"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 1,
+        "role": "مستحلب للزيوت ومساعد تنظيف خفيف"
+      },
+      {
+        "name": "زيت عطري مضاد للروائح (ليمون أو برتقال)",
+        "chemicalName": "Citrus Essential Oil / Limonene",
+        "percentage": 0.8,
+        "role": "تفكيك جزيئات الروائح الكريهة وترك انتعاش حمضي"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 0.5,
+        "role": "تثبيت المستحلب ومساعد تطهير"
+      },
+      {
+        "name": "مادة حافظة Formol أو بديل",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "منع نمو الميكروبات داخل العبوة"
+      }
+    ],
+    "preparationSteps": [
+      "اخلط الإيثانول (5.0%) مع زيت الليمون/البرتقال (0.8%) والتكسابون (1.0%) في وعاء صغير حتى يذوب الزيت بالكامل.",
+      "أضف كمية الماء (93.0%) في الوعاء الرئيسي.",
+      "أضف مزيج الزيت والكحول إلى الماء مع التحريك المستمر.",
+      "أضف البيتايين (0.5%) والمادة الحافظة (0.2%) واستمر في التقليب لمدة 3 دقائق.",
+      "اترك المحلول ليرتاح، ثم عبئه في عبوة بخاخ رذاذي قوي."
+    ],
+    "safetyWarnings": [
+      "يحفظ بعيداً عن مصادر الحرارة المباشرة ولهب النار لوجود نسبة كحول."
+    ],
+    "formulationTips": [
+      "مركب الليمونين (D-Limonene) الموجود بوفرة في زيت البرتقال يعمل كمذيب طبيعي لروائح الدهون الفاسدة."
+    ],
+    "usageInstructions": "يرش مباشرة داخل سلة المهملات الفارغة، على كيس القمامة، وفي أحواض الصرف والمغاسل يومياً.",
+    "recommendedPackaging": "قارورة رذاذية سعة 500 مل أو 1 لتر.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=t1-m_iQkGz8"
+  },
+  {
+    "id": 20,
+    "slug": "sinks-and-basins-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 20,
+    "title": "منظف الأحواض والمغاسل",
+    "titleEn": "Ceramic & Acrylic Sinks & Basins Cleaner",
+    "category": "bathrooms_toilets",
+    "categoryName": "حمامات ومراحيض",
+    "imageUrl": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "منظف مركز متخصص لأحواض السيراميك والرخام الصناعي والمغاسل، يزيل بقع الصابون العنيدة وبقايا معجون الأسنان ويعيد اللمعان الفائق.",
+    "badge": "لمعان كريستالي للأحواض",
+    "phLevel": "7.2 - 8.0 (متعادل مائل للقلوية الخفيفة)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "6 ساعات",
+    "appearance": "سائل لزج انسيابي رغوي رائع الشفافية",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 92.4,
+        "role": "حامل مائي"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 4,
+        "role": "إزالة الأوساخ ورغوة تنظيف وافرة"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "حماية الأسطح وتلميع السيراميك"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إذابة الدهون المستحلبة وبقايا الشامبو والصابون"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 1,
+        "role": "ضبط اللزوجة للالتصاق بسطح المغسلة"
+      },
+      {
+        "name": "عطر منعش (حمضيات أو نسيم البحر)",
+        "chemicalName": "Fresh Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة نظافة وانتعاش تدوم"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (92.4%) في وعاء المزج.",
+      "أضف التكسابون SLES (4.0%) مع التقليب المستمر حتى يذوب تماماً.",
+      "أضف البيتايين (1.0%) ومذيب البوتيل جليكول Butyl Glycol (1.0%) وحرك لمدة 3 دقائق.",
+      "أضف العطر (0.3%) والمادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "أذب ملح الطعام NaCl (1.0%) في قليل من الماء وأضفه تدريجياً لضبط القوام.",
+      "اترك السائل حتى تهدأ الرغوة ويصفو لونه ثم عبئه في القوارير."
+    ],
+    "safetyWarnings": [
+      "آمن على مختلف أنواع الأحواض، يرجى حفظه بعيداً عن متناول الأطفال."
+    ],
+    "formulationTips": [
+      "البوتيل جليكول يفكك ترسبات دهون الأيدي وزيوت الاستحمام المتراكمة على جدران المغطس والمغاسل."
+    ],
+    "usageInstructions": "يوضع قليل من السائل على إسفنجة مبللة، يدعك بها الحوض وخلاط الماء، ثم يشطف بالماء.",
+    "recommendedPackaging": "عبوة بلاستيكية سعة 750 مل مع غطاء صب أو بخاخ.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 21,
+    "slug": "sneakers-and-fabric-shoes-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 21,
+    "title": "منظف الأحذية الرياضية والقماشية",
+    "titleEn": "Sneakers & Canvas Fabric Shoes Deep Cleaner",
+    "category": "leather_wood_special",
+    "categoryName": "أثاث وجلود وخشب",
+    "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة رغوية كحولية متطورة لتنظيف الأحذية الرياضية (السنيكرز)، القماش، والنعال المطاطية البيضاء وإزالة السواد وبقع الطين دون إتلاف الأنسجة.",
+    "badge": "بياض ناصع للسنيكرز والأقمشة",
+    "phLevel": "7.0 - 7.8 (متعادل آمن للألوان والأنسجة)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل رغوي شفاف سريع الجفاف خفيف اللزوجة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 88.9,
+        "role": "مذيب مائي"
+      },
+      {
+        "name": "إيثانول (كحول نقي 96%)",
+        "chemicalName": "Ethanol (Alcohol)",
+        "percentage": 5,
+        "role": "مذيب كحولي سريع الجفاف والتطاير ينظف مسام القماش"
+      },
+      {
+        "name": "SLES أو Texapon (70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 3,
+        "role": "توليد رغوة نشطة ترفع الأوساخ من خيوط القماش"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "محسن رغوة كثيفة ولطيف على خيوط النسيج"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إزالة السواد والشحوم عن النعال البيضاء المطاطية"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "ضبط انسيابية السائل"
+      },
+      {
+        "name": "عطر منعش رياضي",
+        "chemicalName": "Sport Fresh Fragrance",
+        "percentage": 0.3,
+        "role": "رائحة نظافة وانتعاش تزيل روائح الأحذية"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (88.9%) في وعاء التحضير.",
+      "أضف التكسابون SLES (3.0%) مع التقليب حتى يذوب تماماً.",
+      "أضف البيتايين (1.0%) وحرك لدقيقتين.",
+      "أضف الإيثانول (5.0%) وبوتيل جليكول Butyl Glycol (1.0%) مع التحريك الجيد.",
+      "أضف العطر الرياضي المنعش (0.3%) والمادة الحافظة Formol (0.2%) وامزجهما جيداً.",
+      "أضف ملح الطعام (0.5%) لضبط القوام الخفيف المتجانس.",
+      "عبئ في عبوة ذات مضخة رغوية (Foam Pump) مخصصة لتوليد رغوة جافة."
+    ],
+    "safetyWarnings": [
+      "يحتوي على كحول، يحفظ بعيداً عن اللهب ومصادر الحرارة."
+    ],
+    "formulationTips": [
+      "الرغوة الجافة المتولدة تمنع تشبع باطن الحذاء بالماء، مما يسرع جفافه في غضون ساعة واحدة دون أي رائحة رطوبة."
+    ],
+    "usageInstructions": "تضخ الرغوة مباشرة على الحذاء أو النعل، تدعك بفرشاة ناعمة، ثم تمسح الأوساخ بفوطة مايكروفايبر جافة.",
+    "recommendedPackaging": "قارورة رغوية (Foam Pump Bottle) سعة 150 إلى 250 مل.",
+    "isFeaturedPrompt": false,
+    "isPremium": true,
+    "youtubeUrl": "https://www.youtube.com/watch?v=u47vP5wF6_0"
+  },
+  {
+    "id": 22,
+    "slug": "metals-and-polishing-cleaner",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 22,
+    "title": "منظف المعادن والتلميع",
+    "titleEn": "Stainless Steel & Metal Brightener & Polish",
+    "category": "leather_wood_special",
+    "categoryName": "أثاث وجلود وخشب",
+    "imageUrl": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة احترافية لتنظيف وتلميع الستانلس ستيل، النحاس، والألمنيوم، تزيل طبقات الأكسدة والاصفرار وتترك بريقاً كالمرآة.",
+    "badge": "تلميع الستانلس والنحاس والمعادن",
+    "phLevel": "3.0 - 3.8 (حمضي لطيف مزيل للأكسدة)",
+    "phType": "acidic",
+    "difficulty": "متوسط",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "4 ساعات",
+    "appearance": "سائل كهرماني شفاف خفيف الرغوة فائق التجانس",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua",
+        "percentage": 93,
+        "role": "قاعدة مائية رئيسية"
+      },
+      {
+        "name": "حمض الستريك أو حمض اللاكتيك",
+        "chemicalName": "Citric Acid or Lactic Acid",
+        "percentage": 2,
+        "role": "إذابة طبقة الأكسدة والصدأ الخفيف والاصفرار عن المعادن"
+      },
+      {
+        "name": "SLES (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate",
+        "percentage": 2,
+        "role": "تفكيك الشحوم والدهون العالقة بالمعادن"
+      },
+      {
+        "name": "Betaine (بيتايين)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 1,
+        "role": "مستحلب ثابت في الوسط الحمضي"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "Butyl Glycol",
+        "percentage": 1,
+        "role": "إذابة بصمات الأصابع والزيوت المعدنية"
+      },
+      {
+        "name": "ملح طعام NaCl",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 0.5,
+        "role": "تعديل انسيابية السائل"
+      },
+      {
+        "name": "عطر منعش",
+        "chemicalName": "Fresh Fragrance",
+        "percentage": 0.2,
+        "role": "رائحة نقاء طيبة"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Preservative",
+        "percentage": 0.2,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع كمية الماء (93.0%) في وعاء خلط بلاستيكي مقاوم للأحماض.",
+      "أضف حمض الستريك أو اللاكتيك (2.0%) وحرك حتى يذوب تماماً في الماء.",
+      "أضف مذيب البوتيل جليكول Butyl Glycol (1.0%) مع التقليب المستمر.",
+      "أضف التكسابون SLES (2.0%) والبيتايين (1.0%) وحرك برفق حتى يتجانس الخليط تماماً.",
+      "أضف العطر (0.2%) والمادة الحافظة Formol (0.2%) وقلب جيداً.",
+      "أضف ملح الطعام (0.5%) لضبط القوام الانسيابي.",
+      "عبئ المحلول في عبوة رش بخاخة."
+    ],
+    "safetyWarnings": [
+      "ارتدِ قفازات أثناء الاستخدام لتجنب جفاف اليدين من الأحماض المخففة.",
+      "تجنب ملامسة المحلول المباشرة للعينين."
+    ],
+    "formulationTips": [
+      "حمض الستريك مع البوتيل جليكول يزيلان طبقة الأكسدة والتعتيم عن أواني الستانلس ستيل، مواقد الغاز، وأواني النحاس."
+    ],
+    "usageInstructions": "يرش على السطح المعدني، يترك لدقيقة واحدة، ثم يفرك بإسفنجة ناعمة أو فوطة قطنية، ويشطف بالماء ثم يجفف بفوطة ناعمة.",
+    "recommendedPackaging": "عبوة بخاخ سعة 500 مل برأس رش رذاذي محكم.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "isPremium": true
+  },
+  {
+    "id": 108,
+    "slug": "engine-bay-degreaser",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "منظف محرك ومزيل شحوم السيارات (Engine Degreaser)",
+    "titleEn": "Heavy-Duty Engine Bay Degreaser",
+    "category": "car_engine",
+    "categoryName": "محرك ومزيل شحوم",
+    "imageUrl": "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة قوية لتفكيك الزيوت المحترقة والشحوم المتراكمة حول محرك السيارة وأسفل الهيكل بأمان تام دون الإضرار بالخراطيم المطاطية.",
+    "badge": "تفكيك فائق لزيوت المحرك",
+    "phLevel": "10.5 - 11.0 (قلوي مزيل للزيوت)",
+    "phType": "alkaline",
+    "difficulty": "متوسط",
+    "preparationTime": "25 دقيقة",
+    "curingTime": "فوري جاهز للاستخدام",
+    "appearance": "سائل شفاف برتقالي خفيف برائحة الحمضيات المنعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Aqua (Water)",
+        "percentage": 83.5,
+        "role": "مذيب رئيسي وحامل للمركبات الفعالة"
+      },
+      {
+        "name": "Butyl Glycol (بوتيل جليكول)",
+        "chemicalName": "2-Butoxyethanol",
+        "percentage": 5,
+        "role": "مذيب مذيب عضوي فائق لاختراق وتذويب الشحوم والزيوت المستعصية"
+      },
+      {
+        "name": "Texapon N70 (تكسابون 70%)",
+        "chemicalName": "Sodium Lauryl Ether Sulfate 70%",
+        "percentage": 4,
+        "role": "مادة فعالة سطحية لاستحلاب الزيوت ورفعها عن السطح"
+      },
+      {
+        "name": "Isopropanol (كحول إيزوبروبيلي IPA)",
+        "chemicalName": "Isopropyl Alcohol 99%",
+        "percentage": 3,
+        "role": "مساعد إذابة وتسريع تفكيك بقع الزفت والوقود"
+      },
+      {
+        "name": "كوكاميدو بروبيل بيتايين (Betaine)",
+        "chemicalName": "Cocamidopropyl Betaine 30%",
+        "percentage": 2,
+        "role": "معزز ترطيب سطحي ومساعد ثبات الرغوة الخفيفة"
+      },
+      {
+        "name": "هيدروكسيد الصوديوم (NaOH مخفف)",
+        "chemicalName": "Sodium Hydroxide Solution",
+        "percentage": 1,
+        "role": "رفع القلوية إلى 10.5 لتصبين الزيوت والشحوم دون إتلاف المعادن"
+      },
+      {
+        "name": "عطر د-ليمونين (حمضيات البرتقال)",
+        "chemicalName": "d-Limonene Citrus Fragrance",
+        "percentage": 0.8,
+        "role": "مذيب طبيعي إضافي ورائحة منعشة تغطي رائحة المذيبات"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formaldehyde solution",
+        "percentage": 0.2,
+        "role": "حفظ التركيبة ضد البكتيريا والشوائب"
+      }
+    ],
+    "preparationSteps": [
+      "ضع الماء (83.5%) في خزان الخلط المقاوم للقلويات.",
+      "أضف Texapon N70 تدريجياً مع التقليب الهادئ حتى الذوبان التام دون إحداث رغوة زائدة.",
+      "أضف Butyl Glycol (5.0%) وحرك لمدة دقيقتين ليتجانس مع الوسط المائي.",
+      "أضف Isopropanol ثم Betaine مع استمرار التحريك الخفيف.",
+      "أضف محلول هيدروكسيد الصوديوم المخفف بحذر شديد مع فحص الـ pH للتأكد من وصوله لـ 10.5 - 11.0.",
+      "أضف زيت د-ليمونين الحمضي ومادة Formol الحافظة.",
+      "عبئ المنتج في عبوات بخاخ متينة مقاومة للمذيبات."
+    ],
+    "safetyWarnings": [
+      "لا ترش المنتج أبداً على محرك ساخن أو أثناء دوران المحرك.",
+      "قم بتغطية المولد الكهربائي (الدينمو) وحساسات الهواء والكمبيوتر بكيس بلاستيكي قبل الرش.",
+      "ارتدِ قفازات ونظارات وقاية أثناء التحضير والتطبيق."
+    ],
+    "formulationTips": [
+      "البوتيل جليكول مع الـ IPA يشكلان مذيباً ثنائياً يذيب سلاسل الهيدروكربونات الثقيلة في ثوانٍ.",
+      "د-ليمونين يعطي قوة إذابة إضافية طبيعية برائحة برتقال زكية ومحببة للمستخدم."
+    ],
+    "usageInstructions": "يرش بسخاء على أجزاء المحرك الباردة المتسخة، يترك لمدة 3 إلى 5 دقائق، ثم يفرك بفرشاة تفصيل دقيقة ويغسل بضغط ماء خفيف إلى متوسط.",
+    "recommendedPackaging": "عبوات رشاش زناد رغوي سعة 500 مل أو 1 لتر مقاومة للمواد الكيميائية.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=r0f8sVb5e_g",
+    "isPremium": true
+  },
+  {
+    "id": 109,
+    "slug": "quick-detailer-spray-wax",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "واكس التلميع السريع وحماية الطلاء (Quick Detailer)",
+    "titleEn": "Hydrophobic Quick Detailer & Spray Wax",
+    "category": "car_wax",
+    "categoryName": "تلميع وواكس",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "رذاذ شمعي سريع يمنح السيارة لمعاناً كريستالياً عميقاً مع خاصية طرد قطرات الماء (Hydrophobic Beading) وحماية من الأشعة فوق البنفسجية.",
+    "badge": "لمعان كريستالي وطرد فائق للماء",
+    "phLevel": "6.0 - 6.5 (متعادل لطيف)",
+    "phType": "neutral",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "curingTime": "جاهز فوراً",
+    "appearance": "مستحلب حليبي خفيف ناصع برائحة الفانيلا أو الموز المنعشة",
+    "ingredients": [
+      {
+        "name": "ماء نقي منزوع الأملاح (DI Water)",
+        "chemicalName": "Deionized Water",
+        "percentage": 88.3,
+        "role": "حامل نقي يمنع أي ترسبات كلسية على الطلاء"
+      },
+      {
+        "name": "مستحلب السيليكون الدقيق (Silicone Emulsion 60%)",
+        "chemicalName": "Polydimethylsiloxane Emulsion",
+        "percentage": 5,
+        "role": "المكون الفعال لتكوين طبقة العزل الشمعية وطرد قطرات الماء واللمعان"
+      },
+      {
+        "name": "Isopropanol (كحول إيزوبروبيلي IPA)",
+        "chemicalName": "Isopropyl Alcohol",
+        "percentage": 4,
+        "role": "تسريع التبخر ومنع ظهور خطوط المسح الضبابية على الطلاء"
+      },
+      {
+        "name": "Propylene Glycol (بروبيلين جليكول)",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 1.5,
+        "role": "عامل ترطيب يحسن انسياب الفوطة ويمنع جفاف الواكس الفوري المشوه"
+      },
+      {
+        "name": "حمض الستريك",
+        "chemicalName": "Citric Acid",
+        "percentage": 0.5,
+        "role": "ضبط الـ pH ليكون ملائماً ومطابقاً للطلاء النانوي"
+      },
+      {
+        "name": "عطر شمعي (فانيلا أو جوز هند)",
+        "chemicalName": "Detailer Fragrance",
+        "percentage": 0.5,
+        "role": "إضفاء رائحة فخمة واحترافية أثناء الاستخدام"
+      },
+      {
+        "name": "مادة حافظة Formol",
+        "chemicalName": "Formalin Solution",
+        "percentage": 0.2,
+        "role": "حماية المستحلب من التحلل أو التعفن"
+      }
+    ],
+    "preparationSteps": [
+      "ضع الماء منزوع الأملاح في وعاء خلط نظيف ومعقم.",
+      "أضف Propylene Glycol و Isopropanol وحرك لمدة دقيقة.",
+      "أضف مستحلب السيليكون الدقيق (5.0%) ببطء مع التحريك المستمر حتى يتوزع بالتساوي ويصبح السائل بلون حليبي متجانس.",
+      "أذب حمض الستريك في قليل من الماء ثم أضفه لضبط الحموضة بين 6.0 و 6.5.",
+      "أضف العطر الشمعي والمادة الحافظة Formol مع التحريك النهائي لمدة 3 دقائق.",
+      "عبئ السائل في عبوات رذاذ ضبابي فائق النعومة."
+    ],
+    "safetyWarnings": [
+      "لا يوضع على الزجاج الأمامي لمنع تشتت الرؤية عند تشغيل المساحات أثناء المطر.",
+      "يحفظ بعيداً عن درجات التجمد وأشعة الشمس المباشرة."
+    ],
+    "formulationTips": [
+      "استخدام ماء منزوع الأملاح (DI Water) ضروري جداً لتفادي ظهور بقع كلسية بيضاء بعد جفاف المنتج.",
+      "مستحلب السيليكون الدقيق يعطي خاصية الـ Lotus Effect (التكور الفائق لقطرات الماء)."
+    ],
+    "usageInstructions": "يرش رذاذ خفيف على لوح نظيف من طلاء السيارة، ثم يمسح مباشرة بفوطة مايكروفايبر ناعمة، ثم تقلب الفوطة على وجهها الجاف لتلميع نهائي براق.",
+    "recommendedPackaging": "عبوة بخاخ رذاذ دقيق سعة 500 مل أو 750 مل بلون شفاف أو دخاني.",
+    "isFeaturedPrompt": false,
+    "youtubeUrl": "https://www.youtube.com/watch?v=u47vP5wF6_0",
+    "isPremium": true
+  },
+  {
+    "id": 201,
+    "slug": "ceramic-wash-wax-shampoo",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "شامبو غسيل بالواكس وتقنية السيراميك (Ceramic Wash & Wax)",
+    "titleEn": "Ceramic SiO2 Infused Wash & Wax Shampoo",
+    "category": "car_shampoo",
+    "categoryName": "شامبو ورغوة سيراميك",
+    "imageUrl": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة شامبو غسيل سيارات مدعمة بمستحلب السيليكا والشموع البوليمرية لمنح طلاء السيارة لمعاناً كريستالياً وطبقة طاردة للماء تدوم لأسابيع.",
+    "badge": "حماية سيراميك SiO2",
+    "phLevel": "6.8 (متعادل فائق الأمان)",
+    "difficulty": "متوسط",
+    "preparationTime": "35 دقيقة",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7X8II6J-6mU",
+    "ingredients": [
+      {
+        "name": "ماء نقي منزوع الأملاح",
+        "chemicalName": "Deionized Water",
+        "percentage": 81.5,
+        "role": "مذيب أساسي"
+      },
+      {
+        "name": "تكسابون N70",
+        "chemicalName": "SLES 70%",
+        "percentage": 9,
+        "role": "مادة رغوية خافضة للتوتر السطحي"
+      },
+      {
+        "name": "بيتاين (CAPB)",
+        "chemicalName": "Cocamidopropyl Betaine",
+        "percentage": 3.5,
+        "role": "معزز رغوة مخملية ومقلل للتحسس"
+      },
+      {
+        "name": "مستحلب السيليكون الدقيق",
+        "chemicalName": "Micro Silicone Emulsion 60%",
+        "percentage": 3,
+        "role": "طبقة لمعان وعزل هيدروفوبيك طارد للماء"
+      },
+      {
+        "name": "بروبيلين جليكول",
+        "chemicalName": "Propylene Glycol",
+        "percentage": 1.5,
+        "role": "عامل ترطيب وانزلاق للإسفنجة"
+      },
+      {
+        "name": "عطر كرز فاخر",
+        "chemicalName": "Cherry Auto Fragrance",
+        "percentage": 0.8,
+        "role": "رائحة زكية فواحة أثناء الغسيل"
+      },
+      {
+        "name": "حمض الليمون",
+        "chemicalName": "Citric Acid",
+        "percentage": 0.4,
+        "role": "ضبط درجة الـ pH إلى 6.8"
+      },
+      {
+        "name": "مادة حافظة كيميكاب",
+        "chemicalName": "Isothiazolinone preservative",
+        "percentage": 0.3,
+        "role": "حفظ المنتج من البكتيريا"
+      }
+    ],
+    "preparationSteps": [
+      "في خزان خلط نظيف، ضع 81.5% من الماء منزوع الأملاح.",
+      "أضف التكسابون تدريجياً مع التقليب الهادئ لمنع تكوّن رغوة داخل الخزان حتى الذوبان التام.",
+      "أضف البيتاين (CAPB) وحرك حتى يندمج مع الخليط لتعزيز قوام الرغوة.",
+      "أضف مستحلب السيليكون الدقيق ببطء مع التحريك المستمر لضمان توزيعه المتجانس.",
+      "أضف البروبيلين جليكول ثم العطر والمادة الحافظة.",
+      "اضبط درجة الـ pH بإضافة محلول حمض الليمون تدريجياً حتى قراءة 6.8 على مقياس الـ pH.",
+      "اترك المنتج ليرتاح 24 ساعة ليصبح شفافاً تماماً قبل التعبئة."
+    ],
+    "safetyWarnings": [
+      "تجنب غسل السيارة تحت أشعة الشمس المباشرة لمنع جفاف السيليكا قبل الشطف.",
+      "ارتدِ قفازات واقية ونظارات سلامة أثناء وزن المواد الخام."
+    ],
+    "formulationTips": [
+      "إضافة مستحلب السيليكون تمنح خاصية الـ Beading (تكور قطرات الماء وانزلاقها بسرعة عن جسم السيارة).",
+      "البيتاين يعطي نعومة وانزلاقاً ممتازاً يمنع حدوث خدوش الدوامات (Swirl Marks) أثناء المسح."
+    ],
+    "usageInstructions": "يخفف فنجان واحد (60 مل) في سطل ماء سعة 10 لتر، أو يضاف بنسبة 1:5 في مدفع الرغوة الثلجية.",
+    "isPremium": true
+  },
+  {
+    "id": 202,
+    "slug": "interior-fabric-leather-cleaner",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "منظف كنب وفرش السيارة القماشي والجلدي العميق",
+    "titleEn": "Deep Auto Upholstery & Leather Interior Cleaner",
+    "category": "car_interior",
+    "categoryName": "تنظيف الكنب والمقصورة",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة رغوية جافة آمنة لتنظيف كنب وفرش السيارة الداخلي، السقف، والأبواب وإزالة أصعب البقع العضوية والزيوت دون ترك أثر تجيير.",
+    "badge": "تنظيف كنب ومفروشات السيارة",
+    "phLevel": "7.5 - 8.0 (قلوي لطيف آمن)",
+    "difficulty": "سهل",
+    "preparationTime": "20 دقيقة",
+    "youtubeUrl": "https://www.youtube.com/watch?v=u78o1lVqJ_M",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Deionized Water",
+        "percentage": 88,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "بيوتيل جليكول (مذيب شحوم لطيف)",
+        "chemicalName": "Butyl Glycol (BG)",
+        "percentage": 3.5,
+        "role": "تفتيت بقع الدهون والزيوت عن القماش"
+      },
+      {
+        "name": "لورامين أكسيد (رغوة تنظيف)",
+        "chemicalName": "Lauramine Oxide",
+        "percentage": 3,
+        "role": "رغوة دقيقة ترفع الأوساخ من ألياف القماش"
+      },
+      {
+        "name": "سيتيل ثلاثي ميثيل الأمونيوم",
+        "chemicalName": "CTAC (Antistatic)",
+        "percentage": 1.5,
+        "role": "مانع للكهرباء الساكنة وطارد للغبار"
+      },
+      {
+        "name": "أوكتيل سلفات الصوديوم",
+        "chemicalName": "Sodium Octyl Sulfate",
+        "percentage": 2,
+        "role": "ترطيب وتغلغل عميق في مسام الجلد"
+      },
+      {
+        "name": "عطر رائحة سيارة جديدة (New Car)",
+        "chemicalName": "New Car Fragrance",
+        "percentage": 1,
+        "role": "إعطاء رائحة الوكالة المميزة"
+      },
+      {
+        "name": "مادة حافظة",
+        "chemicalName": "Preservative",
+        "percentage": 1,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "امزج الماء النقي مع البيوتيل جليكول وحرك لمدة دقيقتين.",
+      "أضف لورامين أكسيد مع التحريك الهادئ لتكوين قاعدة رغوية دقيقة.",
+      "أضف مانع الشحنات الساكنة (CTAC) الذي يمنع التصاق الغبار بالكنب لاحقاً.",
+      "أضف العطر والمادة الحافظة وحرك حتى يمتزج المحلول تماماً."
+    ],
+    "safetyWarnings": [
+      "اختبر دائماً المنتج على منطقة صغيرة غير ظاهرة من الفرش أو الجلد قبل الاستخدام الشامل."
+    ],
+    "formulationTips": [
+      "الرغوة الجافة الناتجة عن لورامين أكسيد تمنع تبلل الإسفنج الداخلي للكنب مما يمنع تشكل روائح الرطوبة والكمكمة."
+    ],
+    "usageInstructions": "يرش مباشرة على البقعة أو الكنب، ويفرك بفرشاة ناعمة أو فوطة مايكروفايبر، ثم يمسح بقطعة قماش جافة.",
+    "isPremium": true
+  },
+  {
+    "id": 203,
+    "slug": "trim-plastic-restorer",
+    "mainSection": "car_care",
+    "mainSectionName": "قسم وصفات العناية بالسيارات",
+    "sectionIndex": 1,
+    "title": "مجدد وملمع الفايبر والبلاستيك الأسود للسيارة",
+    "titleEn": "Trim & Black Plastic Restorer Hydrophobic Gel",
+    "category": "car_plastics",
+    "categoryName": "بلاستيك وفايبر",
+    "imageUrl": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "جل استعادة اللون الأسود الأصلي للصدامات، مقابض الأبواب، وأجزاء البلاستيك الباهتة وحمايتها من الأشعة فوق البنفسجية UV.",
+    "badge": "تجديد بلاستيك وصدامات",
+    "phLevel": "7.0 (حيادي خامل)",
+    "difficulty": "سهل",
+    "preparationTime": "25 دقيقة",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yW2k_3pB7Qk",
+    "ingredients": [
+      {
+        "name": "زيت سيليكون لزوجة 1000",
+        "chemicalName": "Dimethicone 1000 cSt",
+        "percentage": 50,
+        "role": "مادة أساسية للتلميع وعزل الرطوبة"
+      },
+      {
+        "name": "مذيب إيزوبار / هيدروكربوني خفيف",
+        "chemicalName": "Isoparaffin Solvent",
+        "percentage": 42,
+        "role": "حامل ومذيب لسرعة الجفاف وعدم التزييت"
+      },
+      {
+        "name": "شمع البولي إيثيلين الدقيق",
+        "chemicalName": "Micronized PE Wax",
+        "percentage": 5,
+        "role": "منح طبقة صلبة مقاومة للغبار والغسيل"
+      },
+      {
+        "name": "مثبت أشعة UV",
+        "chemicalName": "Benzophenone-3 (UV Absorber)",
+        "percentage": 2,
+        "role": "حماية البلاستيك من الشيبان والبهتان بالشمس"
+      },
+      {
+        "name": "عطر فانيليا / كرز",
+        "chemicalName": "Solvent Fragrance",
+        "percentage": 1,
+        "role": "تعطير المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء، امزج زيت السيليكون مع المذيب الهيدروكربوني وحرك جيداً حتى التجانس.",
+      "أضف شمع البولي إيثيلين تدريجياً مع التحريك.",
+      "أضف مانع الأشعة فوق البنفسجية (UV Absorber) لضمان حماية الصدام من حرارة الصيف.",
+      "عبئ المنتج في عبوة ضاغطة أو زجاجية مع إسفنجة توزيع."
+    ],
+    "safetyWarnings": [
+      "يُحفظ بعيداً عن مصادر اللهب والحرارة.",
+      "لا يستخدم على دواسات البنزين والفرامل أو مقود السيارة منعاً للانزلاق."
+    ],
+    "formulationTips": [
+      "المذيب الهيدروكربوني يتبخر تاركاً شمع السيليكون جافاً للمس دون أن يلتصق به غبار الطريق."
+    ],
+    "usageInstructions": "توضع قطرات على إسفنجة توزيع ويمسح بها البلاستيك والصدام الأسود النظيف بحركات دائرية متساوية.",
+    "isPremium": true
+  },
+  {
+    "id": 204,
+    "slug": "concentrated-lemon-dish-soap",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 2,
+    "title": "سائل جلي الأطباق بالليمون المركز وقاهر الدهون",
+    "titleEn": "Concentrated Lemon Dishwashing Gel (Heavy Duty)",
+    "category": "dish_cleaning",
+    "categoryName": "أواني ومطبخ",
+    "imageUrl": "https://images.unsplash.com/photo-1585837575652-267c041d77d4?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة سائل غسيل أواني عالية التركيز واللزوجة، تقضي على الدهون المحترقة في ثوانٍ مع رغوة غنية ولطيفة على اليدين بخلاصة الجلسرين.",
+    "badge": "تركيز عالي وقاهر للدهون",
+    "phLevel": "6.5 - 7.0 (معتدل للبشرة)",
+    "difficulty": "سهل",
+    "preparationTime": "30 دقيقة",
+    "youtubeUrl": "https://www.youtube.com/watch?v=r0f8sVb5e_g",
+    "ingredients": [
+      {
+        "name": "ماء معالج",
+        "chemicalName": "Treated Water",
+        "percentage": 70.5,
+        "role": "مذيب نقي"
+      },
+      {
+        "name": "حمض السلفونيك الشفاف (LABSA)",
+        "chemicalName": "Linear Alkylbenzene Sulfonic Acid 96%",
+        "percentage": 12,
+        "role": "قاهر ومذيب الدهون والشحوم الأول"
+      },
+      {
+        "name": "هيدروكسيد الصوديوم (صودا كاوية)",
+        "chemicalName": "Sodium Hydroxide 50%",
+        "percentage": 3.5,
+        "role": "معادلة السلفونيك وضبط الـ pH"
+      },
+      {
+        "name": "تكسابون N70",
+        "chemicalName": "SLES 70%",
+        "percentage": 7,
+        "role": "مولد رغوة ناصعة وشفافية فائقة"
+      },
+      {
+        "name": "كمبرلان CDE",
+        "chemicalName": "Cocamide DEA",
+        "percentage": 2,
+        "role": "مثبت ومغلظ رغوة"
+      },
+      {
+        "name": "جلسرين طبي",
+        "chemicalName": "Glycerin USP",
+        "percentage": 1.5,
+        "role": "ترطيب اليدين ومنع الجفاف"
+      },
+      {
+        "name": "ملح طعام نقي (NaCl)",
+        "chemicalName": "Sodium Chloride",
+        "percentage": 2,
+        "role": "تغليظ القوام اللزوجي"
+      },
+      {
+        "name": "عطر ليمون طبيعي إسباني",
+        "chemicalName": "Lemon Essential Oil",
+        "percentage": 1,
+        "role": "رائحة ليمون طبيعية منعشة"
+      },
+      {
+        "name": "ملون أصفر غذائي",
+        "chemicalName": "Food Grade Yellow Color",
+        "percentage": 0.1,
+        "role": "لون جذاب"
+      },
+      {
+        "name": "مادة حافظة فورمالين",
+        "chemicalName": "Formalin 37%",
+        "percentage": 0.4,
+        "role": "حفظ المنتج"
+      }
+    ],
+    "preparationSteps": [
+      "ضع 60% من الماء في البرميل، وأضف حمض السلفونيك تدريجياً مع التقليب الجيد.",
+      "أضف محلول الصودا الكاوية ببطء لمعادلة الحمض مع قياس الـ pH باستمرار حتى نصل إلى رقم 7.0 تماماً.",
+      "في وعاء جانبي، ذوب التكسابون في باقي الماء وأضفه للبرميل مع التحريك الهادئ.",
+      "أضف الكمبرلان (CDE) والجلسرين المرطب لليدين وحرك حتى يمتزج.",
+      "ذوب ملح الطعام في قليل من الماء الدافئ وأضفه تدريجياً لرفع اللزوجة إلى القوام الجلي المطلوب.",
+      "أضف الملون، العطر، والمادة الحافظة، ودع المنتج ليهدأ ليلة كاملة حتى تزول الفقاعات ويصبح نقياً كالبلور."
+    ],
+    "safetyWarnings": [
+      "ارتدِ قفازات ونظارات واقية أثناء التعامل مع الصودا الكاوية وحمض السلفونيك المركز.",
+      "تجنب استنشاق الأبخرة أثناء عملية التعادل الأولي."
+    ],
+    "formulationTips": [
+      "التعادل الدقيق عند pH 7.0 يضمن حماية يدين المستهلك وعدم تحسسها مع أقصى كفاءة لإزالة الدهون.",
+      "إضافة الجلسرين ترفع من القيمة التسويقية للمنتج وتجعله منافساً لأشهر العلامات التجارية العالمية."
+    ],
+    "usageInstructions": "توضع قطرات قليلة على إسفنجة الجلي الرطبة لتكوين رغوة كثيفة تكفي لجلي كميات كبيرة من الصحون.",
+    "isPremium": false
+  },
+  {
+    "id": 205,
+    "slug": "foaming-carpet-sofa-shampoo",
+    "mainSection": "household",
+    "mainSectionName": "قسم وصفات مواد التنظيف المنزلية",
+    "sectionIndex": 2,
+    "title": "شامبو غسيل السجاد والكنب والمفروشات بالرغوة الجافة",
+    "titleEn": "Foaming Carpet & Sofa Upholstery Shampoo (Quick Dry)",
+    "category": "furniture_care",
+    "categoryName": "كنب وسجاد ومفروشات",
+    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80",
+    "shortDesc": "تركيبة شامبو غسيل الكنب والسجاد والمجالس بالرغوة الجافة الفعالة، تسحب الأوساخ وتجف خلال ساعة واحدة مع تعطير عميق برائحة الياسمين.",
+    "badge": "تنظيف كنب وسجاد جاف",
+    "phLevel": "7.5 (آمن لجميع الأنسجة)",
+    "difficulty": "متوسط",
+    "preparationTime": "25 دقيقة",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9bZkp7q19f0",
+    "ingredients": [
+      {
+        "name": "ماء نقي",
+        "chemicalName": "Pure Water",
+        "percentage": 84.5,
+        "role": "مذيب رئيسي"
+      },
+      {
+        "name": "لوريل سلفات الصوديوم (SLS بودرة)",
+        "chemicalName": "Sodium Lauryl Sulfate Powder",
+        "percentage": 5,
+        "role": "توليد رغوة جافة غير رطبة تسحب الغبار"
+      },
+      {
+        "name": "إيزوبروبانول (IPA كحول نقي)",
+        "chemicalName": "Isopropyl Alcohol",
+        "percentage": 4,
+        "role": "تسريع جفاف الكنب ومنع عفن الإسفنج"
+      },
+      {
+        "name": "أكسيد الأمين",
+        "chemicalName": "Amine Oxide",
+        "percentage": 2.5,
+        "role": "تثبيت الرغوة وتفتيت البقع العضوية"
+      },
+      {
+        "name": "بوليمر مقاوم لإعادة الاتساخ",
+        "chemicalName": "Soil Release Polymer",
+        "percentage": 1.5,
+        "role": "تشكيل طبقة نانو تمنع التصاق الأوساخ مجدداً"
+      },
+      {
+        "name": "عطر ياسمين فرنسي",
+        "chemicalName": "Jasmine Carpet Fragrance",
+        "percentage": 1.5,
+        "role": "تعطير فواح وثابت للمجلس والكنب"
+      },
+      {
+        "name": "مادة حافظة",
+        "chemicalName": "Preservative",
+        "percentage": 1,
+        "role": "حفظ التركيبة"
+      }
+    ],
+    "preparationSteps": [
+      "في وعاء، ضع الماء النقي وأضف بودرة SLS بالتدريج مع التقليب حتى تذوب تماماً بدون تكتلات.",
+      "أضف أكسيد الأمين وحرك حتى يمتزج المحلول.",
+      "أضف كحول الإيزوبروبانول (IPA) الذي يضمن جفاف القماش في وقت قياسي.",
+      "أضف البوليمر المانع للاتساخ، ثم العطر والمادة الحافظة.",
+      "عبئ المنتج في عبوات مع فوهة ضخ الرغوة (Foamer) أو يستخدم في ماكينات غسيل السجاد."
+    ],
+    "safetyWarnings": [
+      "احرص على تهوية الغرفة أثناء تنظيف المفروشات لتسريع الجفاف.",
+      "لا تفرط في تبليل الكنب، اعتمد فقط على الرغوة البيضاء الناتجة."
+    ],
+    "formulationTips": [
+      "تقنية الرغوة الجافة (Dry Foam) تجمع الأوساخ وتتحول بعد جفافها إلى مسحوق بلوري غير مرئي يتم كنسه بسهولة بالمكنسة الكهربائية."
+    ],
+    "usageInstructions": "يخفف كوب واحد في 3 لتر ماء، ويخفق بشدة بإسفنجة لتكوين رغوة سميكة. تؤخذ الرغوة فقط وتفرك بها أقمشة الكنب والسجاد.",
+    "isPremium": true
+  }
+]
