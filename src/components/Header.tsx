@@ -55,6 +55,10 @@ export const Header: React.FC<HeaderProps> = ({
               <View style={styles.tagV4}>
                 <Text style={styles.tagV4Text}>Pro V5</Text>
               </View>
+              <View style={styles.supabaseTag}>
+                <Ionicons name="cloud-done" size={10} color="#0284C7" />
+                <Text style={styles.supabaseTagText}>Supabase</Text>
+              </View>
             </View>
             <Text style={styles.brandSub}>تركيبات المنظفات الاحترافية بالفيديو</Text>
           </View>
@@ -238,6 +242,22 @@ const styles = StyleSheet.create({
   },
   tagV4Text: {
     color: '#FFFFFF',
+    fontSize: 9,
+    fontWeight: '700',
+  },
+  supabaseTag: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#F0F9FF',
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 6,
+    borderWidth: 1,
+    borderColor: '#BAE6FD',
+    gap: 3,
+  },
+  supabaseTagText: {
+    color: '#0284C7',
     fontSize: 9,
     fontWeight: '700',
   },

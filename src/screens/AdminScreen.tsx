@@ -486,19 +486,24 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
       <View style={styles.topBar}>
         <View style={styles.topInfo}>
           <View style={styles.shieldBadge}>
-            <Ionicons name="shield-checkmark" size={18} color="#06B6D4" />
+            <Ionicons name="skull" size={20} color="#06B6D4" />
           </View>
           <View>
-            <Text style={styles.adminTitle}>لوحة التحكم المركزية - ChemClean Pro</Text>
+            <View style={{ flexDirection: 'row', alignItems: 'center', gap: 6 }}>
+              <Text style={styles.adminTitle}>واجهة الأدمن العليا (المنطقة المحظورة)</Text>
+              <View style={styles.dangerPill}>
+                <Text style={styles.dangerPillText}>CLASSIFIED</Text>
+              </View>
+            </View>
             <View style={styles.authRow}>
               <View style={styles.activeDot} />
-              <Text style={styles.adminKeyText}>المدير: {ADMIN_SECRET_KEY}</Text>
-              {supabaseConfig.isConnected && (
-                <View style={styles.cloudOnlineTag}>
-                  <Ionicons name="cloud-done" size={12} color="#10B981" />
-                  <Text style={styles.cloudOnlineText}>Supabase متصل</Text>
-                </View>
-              )}
+              <Text style={styles.adminKeyText}>الرمز السري: {ADMIN_SECRET_KEY}</Text>
+              <View style={styles.cloudOnlineTag}>
+                <Ionicons name="cloud-done" size={12} color="#10B981" />
+                <Text style={styles.cloudOnlineText}>
+                  {supabaseConfig.isConnected ? 'Supabase متصل' : 'سحابة Supabase جاهزة'}
+                </Text>
+              </View>
             </View>
           </View>
         </View>
@@ -506,6 +511,14 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
         <TouchableOpacity style={styles.closeBtn} onPress={onClose} activeOpacity={0.7}>
           <Ionicons name="close" size={22} color="#94A3B8" />
         </TouchableOpacity>
+      </View>
+
+      {/* Cyberpunk Scary Security Banner */}
+      <View style={styles.cyberWarningBanner}>
+        <Ionicons name="warning" size={16} color="#F59E0B" />
+        <Text style={styles.cyberWarningText}>
+          تحذير أمني: أنت في واجهة الإدارة والتحكم الكامل. لديك صلاحيات مطلقة لتعديل وحذف الوصفات، إرفاق فيديوهات يوتيوب، توليد مواد 8 خانات، ومزامنة بيانات Supabase السحابية.
+        </Text>
       </View>
 
       {/* 5 Command Navigation Tabs */}
@@ -1647,6 +1660,37 @@ const styles = StyleSheet.create({
     color: '#10B981',
     fontSize: 10,
     fontWeight: '700',
+  },
+  dangerPill: {
+    backgroundColor: 'rgba(239, 68, 68, 0.25)',
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 4,
+    borderWidth: 1,
+    borderColor: '#EF4444',
+  },
+  dangerPillText: {
+    color: '#EF4444',
+    fontSize: 9,
+    fontWeight: '900',
+    letterSpacing: 1,
+  },
+  cyberWarningBanner: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: 'rgba(245, 158, 11, 0.1)',
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(245, 158, 11, 0.3)',
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    gap: 8,
+  },
+  cyberWarningText: {
+    color: '#FBBF24',
+    fontSize: 11,
+    fontWeight: '600',
+    flex: 1,
+    textAlign: 'right',
   },
   closeBtn: {
     width: 36,

@@ -189,6 +189,13 @@ export default function App() {
               onOpenActivationModal={() => setIsActivationModalOpen(true)}
               onOpenAdminLogin={() => setIsAdminLoginOpen(true)}
               onOpenAdminPanel={() => setIsAdminPanelOpen(true)}
+              onAdminDetected={() => {
+                setIsAdmin(true);
+                setIsAdminPanelOpen(true);
+              }}
+              onSubscriptionActivated={(sub) => {
+                setSubscription(sub);
+              }}
               onEditRecipeAdmin={handleOpenEditRecipe}
               onAddNewRecipeAdmin={handleAddNewRecipe}
               onRefresh={refreshAppData}

@@ -6,11 +6,13 @@ import {
   FlatList,
   TouchableOpacity,
   RefreshControl,
+  TextInput,
 } from 'react-native';
 import Ionicons from '@expo/vector-icons/Ionicons';
 import { Recipe, SubscriptionState, AdminSettings, MainSection } from '../types';
 import { RecipeCard } from '../components/RecipeCard';
 import { extractYouTubeId } from '../utils/youtube';
+import { activateUserSubscription } from '../services/storage';
 
 interface HomeScreenProps {
   recipes: Recipe[];
@@ -21,6 +23,8 @@ interface HomeScreenProps {
   onOpenActivationModal: () => void;
   onOpenAdminLogin: () => void;
   onOpenAdminPanel: () => void;
+  onAdminDetected?: () => void;
+  onSubscriptionActivated?: (sub: SubscriptionState) => void;
   onEditRecipeAdmin?: (recipe: Recipe) => void;
   onAddNewRecipeAdmin?: () => void;
   onRefresh: () => Promise<void>;
@@ -38,6 +42,8 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
   onOpenActivationModal,
   onOpenAdminLogin,
   onOpenAdminPanel,
+  onAdminDetected,
+  onSubscriptionActivated,
   onEditRecipeAdmin,
   onAddNewRecipeAdmin,
   onRefresh,
@@ -47,11 +53,43 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
 }) => {
   const [refreshing, setRefreshing] = useState(false);
   const [selectedSubCat, setSelectedSubCat] = useState<string>('all');
+  const [inlineCode, setInlineCode] = useState<string>('');
+  const [inlineFeedback, setInlineFeedback] = useState<{ type: 'success' | 'error' | 'admin'; msg: string } | null>(null);
 
   const handlePullRefresh = async () => {
     setRefreshing(true);
     await onRefresh();
     setRefreshing(false);
+  };
+
+  const handleInlineActivate = async () => {
+    const trimmed = inlineCode.trim();
+    if (!trimmed) {
+      setInlineFeedback({ type: 'error', msg: 'يرجى إدخال الكود المكون من 8 خانات' });
+      return;
+    }
+
+    const res = await activateUserSubscription(trimmed);
+    if (res.isAdminKey) {
+      setInlineFeedback({ type: 'admin', msg: '💀 مرحباً بالمدير! تم التعرف على كلمة المرور mounirath1977@، جاري فتح لوحة التحكم المخيفة...' });
+      setTimeout(() => {
+        setInlineCode('');
+        setInlineFeedback(null);
+        if (onAdminDetected) onAdminDetected();
+      }, 700);
+      return;
+    }
+
+    if (res.success && res.subscription) {
+      setInlineFeedback({ type: 'success', msg: res.message });
+      setInlineCode('');
+      if (onSubscriptionActivated) onSubscriptionActivated(res.subscription);
+      await onRefresh();
+      setTimeout(() => setInlineFeedback(null), 3000);
+    } else {
+      setInlineFeedback({ type: 'error', msg: res.message });
+      setTimeout(() => setInlineFeedback(null), 3500);
+    }
   };
 
   // Filter recipes based on search, section, video, and subcategory
@@ -170,22 +208,104 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
             {/* Subscription Warning / Promo Banner for non-subscribed users */}
             {!subscription.isSubscribed && settings.requireSubscription && !isAdmin && (
               <View style={styles.promoBanner}>
-                <View style={styles.promoIconCircle}>
-                  <Ionicons name="key" size={24} color="#0284C7" />
+                <View style={styles.promoTopRow}>
+                  <View style={styles.promoIconCircle}>
+                    <Ionicons name="key" size={22} color="#0284C7" />
+                  </View>
+                  <View style={styles.promoContent}>
+                    <Text style={styles.promoTitle}>تفعيل الاشتراك بالواجهة (8 خانات)</Text>
+                    <Text style={styles.promoSub}>
+                      لديك {settings.freeRecipesCount} وصفات مجانية للمعاينة. أدخل كود الـ 8 خانات لفتح كافة الأسرار والفيديوهات، أو أدخل رمز الأدمن للدخول.
+                    </Text>
+                  </View>
                 </View>
-                <View style={styles.promoContent}>
-                  <Text style={styles.promoTitle}>المحتوى الكامل يتطلب تفعيل الاشتراك</Text>
-                  <Text style={styles.promoSub}>
-                    لديك {settings.freeRecipesCount} وصفات مجانية للمعاينة. أدخل كود الـ 8 خانات لفتح كافة الأسرار والفيديوهات.
-                  </Text>
-                  <TouchableOpacity
-                    style={styles.promoBtn}
-                    onPress={onOpenActivationModal}
-                    activeOpacity={0.85}
-                  >
-                    <Ionicons name="sparkles" size={15} color="#FFFFFF" />
-                    <Text style={styles.promoBtnText}>إدخال كود التفعيل (8 خانات)</Text>
-                  </TouchableOpacity>
+
+                {/* Direct in-interface Code Input Box */}
+                <View style={styles.inlineCodeCard}>
+                  <View style={styles.inlineInputRow}>
+                    <TouchableOpacity
+                      style={styles.inlineActivateBtn}
+                      onPress={handleInlineActivate}
+                      activeOpacity={0.8}
+                    >
+                      <Ionicons name="flash" size={14} color="#FFFFFF" />
+                      <Text style={styles.inlineActivateBtnText}>تفعيل</Text>
+                    </TouchableOpacity>
+
+                    <TextInput
+                      style={styles.inlineInput}
+                      value={inlineCode}
+                      onChangeText={(t) => {
+                        setInlineCode(t);
+                        setInlineFeedback(null);
+                      }}
+                      placeholder="أدخل كود الـ 8 خانات هنا..."
+                      placeholderTextColor="#94A3B8"
+                      autoCapitalize="characters"
+                      autoCorrect={false}
+                      returnKeyType="done"
+                      onSubmitEditing={handleInlineActivate}
+                    />
+
+                    <Ionicons name="barcode-outline" size={20} color="#0284C7" style={{ marginRight: 6 }} />
+                  </View>
+
+                  {/* Inline feedback if any */}
+                  {inlineFeedback && (
+                    <View
+                      style={[
+                        styles.inlineFeedbackBox,
+                        inlineFeedback.type === 'admin'
+                          ? styles.feedbackAdmin
+                          : inlineFeedback.type === 'success'
+                          ? styles.feedbackSuccess
+                          : styles.feedbackError,
+                      ]}
+                    >
+                      <Ionicons
+                        name={
+                          inlineFeedback.type === 'admin'
+                            ? 'shield-checkmark'
+                            : inlineFeedback.type === 'success'
+                            ? 'checkmark-circle'
+                            : 'alert-circle'
+                        }
+                        size={15}
+                        color={
+                          inlineFeedback.type === 'admin'
+                            ? '#06B6D4'
+                            : inlineFeedback.type === 'success'
+                            ? '#15803D'
+                            : '#DC2626'
+                        }
+                      />
+                      <Text
+                        style={[
+                          styles.inlineFeedbackText,
+                          inlineFeedback.type === 'admin' && { color: '#06B6D4' },
+                          inlineFeedback.type === 'success' && { color: '#15803D' },
+                          inlineFeedback.type === 'error' && { color: '#DC2626' },
+                        ]}
+                      >
+                        {inlineFeedback.msg}
+                      </Text>
+                    </View>
+                  )}
+
+                  {/* Quick sample code shortcuts */}
+                  <View style={styles.quickCodeRow}>
+                    <Text style={styles.quickCodeLabel}>أكواد تجريبية:</Text>
+                    {['VIP88888', 'CHEM2026', 'K9X2M7P4'].map((demo) => (
+                      <TouchableOpacity
+                        key={demo}
+                        style={styles.quickCodePill}
+                        onPress={() => setInlineCode(demo)}
+                        activeOpacity={0.7}
+                      >
+                        <Text style={styles.quickCodePillText}>{demo}</Text>
+                      </TouchableOpacity>
+                    ))}
+                  </View>
                 </View>
               </View>
             )}
@@ -316,13 +436,15 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
   promoBanner: {
-    flexDirection: 'row',
     backgroundColor: '#F0F9FF',
     borderRadius: 16,
     padding: 16,
     marginBottom: 14,
     borderWidth: 1,
     borderColor: '#BAE6FD',
+  },
+  promoTopRow: {
+    flexDirection: 'row',
     gap: 12,
   },
   promoIconCircle: {
@@ -348,6 +470,93 @@ const styles = StyleSheet.create({
     lineHeight: 18,
     marginTop: 4,
     textAlign: 'right',
+  },
+  inlineCodeCard: {
+    backgroundColor: '#FFFFFF',
+    borderRadius: 14,
+    padding: 10,
+    marginTop: 12,
+    borderWidth: 1,
+    borderColor: '#BAE6FD',
+  },
+  inlineInputRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  inlineInput: {
+    flex: 1,
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#0F172A',
+    textAlign: 'right',
+    paddingVertical: 6,
+  },
+  inlineActivateBtn: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#0284C7',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 8,
+    gap: 4,
+  },
+  inlineActivateBtnText: {
+    color: '#FFFFFF',
+    fontSize: 12,
+    fontWeight: '700',
+  },
+  inlineFeedbackBox: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 8,
+    borderRadius: 8,
+    marginTop: 8,
+    gap: 6,
+  },
+  feedbackAdmin: {
+    backgroundColor: '#ECFEFF',
+    borderWidth: 1,
+    borderColor: '#06B6D4',
+  },
+  feedbackSuccess: {
+    backgroundColor: '#DCFCE7',
+    borderWidth: 1,
+    borderColor: '#86EFAC',
+  },
+  feedbackError: {
+    backgroundColor: '#FEE2E2',
+    borderWidth: 1,
+    borderColor: '#FCA5A5',
+  },
+  inlineFeedbackText: {
+    fontSize: 11,
+    fontWeight: '700',
+    flex: 1,
+    textAlign: 'right',
+  },
+  quickCodeRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: 8,
+    gap: 6,
+    flexWrap: 'wrap',
+  },
+  quickCodeLabel: {
+    fontSize: 10,
+    color: '#64748B',
+    fontWeight: '600',
+  },
+  quickCodePill: {
+    backgroundColor: '#F1F5F9',
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: 6,
+  },
+  quickCodePillText: {
+    fontSize: 10,
+    fontWeight: '700',
+    color: '#0284C7',
   },
   promoBtn: {
     flexDirection: 'row',
