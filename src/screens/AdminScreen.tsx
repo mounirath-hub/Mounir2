@@ -39,6 +39,7 @@ import {
   getStoredMaterials,
   saveMaterial,
   deleteMaterial,
+  clearStoredMaterials,
 } from '../services/storage';
 import {
   getSupabaseConfig,
@@ -101,6 +102,7 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [testingConnection, setTestingConnection] = useState<boolean>(false);
   const [connectionResult, setConnectionResult] = useState<{ success: boolean; message: string } | null>(null);
+  const [showSecretKey, setShowSecretKey] = useState<boolean>(false);
 
   // Generator Tab States
   const [genMode, setGenMode] = useState<'subscription' | 'material'>('subscription');
@@ -497,7 +499,20 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
             </View>
             <View style={styles.authRow}>
               <View style={styles.activeDot} />
-              <Text style={styles.adminKeyText}>الرمز السري: {ADMIN_SECRET_KEY}</Text>
+              <TouchableOpacity
+                onPress={() => setShowSecretKey(!showSecretKey)}
+                style={{ flexDirection: 'row', alignItems: 'center', gap: 4 }}
+                activeOpacity={0.7}
+              >
+                <Text style={styles.adminKeyText}>
+                  الرمز السري: {showSecretKey ? ADMIN_SECRET_KEY : '•••••••••••••'}
+                </Text>
+                <Ionicons
+                  name={showSecretKey ? 'eye-off-outline' : 'eye-outline'}
+                  size={14}
+                  color="#64748B"
+                />
+              </TouchableOpacity>
               <View style={styles.cloudOnlineTag}>
                 <Ionicons name="cloud-done" size={12} color="#10B981" />
                 <Text style={styles.cloudOnlineText}>
@@ -654,7 +669,7 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
                 <View style={styles.plansGrid}>
                   {(
                     [
-                      ['trial', 'تجريبي (7 أيام)'],
+                      ['trial', 'أسبوعي (7 أيام)'],
                       ['monthly', 'شهري (30 يوم)'],
                       ['quarterly', 'فصلي (3 أشهر)'],
                       ['annual', 'سنوي (سنة كاملة)'],
@@ -888,10 +903,24 @@ export const AdminScreen: React.FC<AdminScreenProps> = ({ onClose, onRefreshData
                   <Text style={styles.genPrimaryText}>توليد رمز المادة الكيميائية (8 خانات)</Text>
                 </TouchableOpacity>
 
-                {/* Materials List */}
-                <Text style={[styles.inputLabel, { marginTop: 20 }]}>
-                  المواد الخام المسجلة ({materials.length}):
-                </Text>
+                {/* Materials List Header with Clear/Hide Demo Materials */}
+                <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginTop: 20, marginBottom: 8 }}>
+                  <TouchableOpacity
+                    style={{ flexDirection: 'row', alignItems: 'center', gap: 4, backgroundColor: 'rgba(239, 68, 68, 0.15)', paddingHorizontal: 8, paddingVertical: 4, borderRadius: 6 }}
+                    onPress={async () => {
+                      const updated = await clearStoredMaterials();
+                      setMaterials(updated);
+                      showToast('تم إخفاء وتطهير كافة المواد التجريبية بنجاح!');
+                    }}
+                    activeOpacity={0.7}
+                  >
+                    <Ionicons name="trash-bin-outline" size={13} color="#EF4444" />
+                    <Text style={{ color: '#EF4444', fontSize: 11, fontWeight: '700' }}>إخفاء المواد التجريبية</Text>
+                  </TouchableOpacity>
+                  <Text style={[styles.inputLabel, { marginBottom: 0 }]}>
+                    المواد الكيميائية المسجلة ({materials.length}):
+                  </Text>
+                </View>
                 {materials.map((m) => (
                   <View key={m.id} style={styles.materialRow}>
                     <View style={styles.matCodeBadge}>

@@ -38,7 +38,7 @@ export function generate8MaterialCode(prefix?: string): string {
 export function getPlanDetails(plan: SubscriptionPlan): { planName: string; durationDays: number } {
   switch (plan) {
     case 'trial':
-      return { planName: 'تجريبي (7 أيام)', durationDays: 7 };
+      return { planName: 'أسبوعي (7 أيام)', durationDays: 7 };
     case 'monthly':
       return { planName: 'شهري (30 يوم)', durationDays: 30 };
     case 'quarterly':

@@ -48,15 +48,18 @@ export const AdminLoginModal: React.FC<AdminLoginModalProps> = ({ visible, onClo
           {/* Header */}
           <View style={styles.header}>
             <View style={styles.shieldIcon}>
-              <Ionicons name="shield-checkmark" size={28} color="#06B6D4" />
+              <Ionicons name="skull" size={28} color="#06B6D4" />
             </View>
-            <Text style={styles.title}>بوابة المدير العليا</Text>
-            <Text style={styles.subtitle}>أدخل الرقم السري للوصول إلى لوحة الإدارة والتحكم في الاشتراكات والوصفات</Text>
+            <View style={styles.dangerTag}>
+              <Text style={styles.dangerTagText}>CLASSIFIED ACCESS ONLY</Text>
+            </View>
+            <Text style={styles.title}>بوابة المدير العليا المشفرة</Text>
+            <Text style={styles.subtitle}>أدخل الرقم السري المحمي للوصول إلى لوحة الإدارة والتحكم في الاشتراكات والوصفات</Text>
           </View>
 
           {/* Password Input */}
           <View style={styles.inputContainer}>
-            <Text style={styles.inputLabel}>الرقم السري للمدير:</Text>
+            <Text style={styles.inputLabel}>الرقم السري للمدير (مشفر ومحمي):</Text>
             <View style={styles.inputWrapper}>
               <TouchableOpacity
                 onPress={() => setShowPassword(!showPassword)}
@@ -77,14 +80,14 @@ export const AdminLoginModal: React.FC<AdminLoginModalProps> = ({ visible, onClo
                   setErrorMsg(null);
                 }}
                 secureTextEntry={!showPassword}
-                placeholder="أدخل الرقم السري..."
+                placeholder="أدخل الرقم السري المشفر..."
                 placeholderTextColor="#64748B"
                 autoCapitalize="none"
                 autoCorrect={false}
                 returnKeyType="done"
                 onSubmitEditing={handleLogin}
               />
-              <Ionicons name="lock-closed-outline" size={20} color="#06B6D4" style={styles.lockIcon} />
+              <Ionicons name="key-outline" size={20} color="#06B6D4" style={styles.lockIcon} />
             </View>
           </View>
 
@@ -96,10 +99,10 @@ export const AdminLoginModal: React.FC<AdminLoginModalProps> = ({ visible, onClo
             </View>
           ) : null}
 
-          {/* Quick Fill Demo Helper */}
+          {/* Quick Fill Demo Helper without exposing the password in plaintext */}
           <TouchableOpacity style={styles.helperBtn} onPress={handleQuickFill} activeOpacity={0.7}>
-            <Ionicons name="key-outline" size={13} color="#06B6D4" />
-            <Text style={styles.helperText}>تعبئة الرقم السري للأدمن (mounirath1977@)</Text>
+            <Ionicons name="shield-checkmark-outline" size={13} color="#06B6D4" />
+            <Text style={styles.helperText}>إدخال الرمز السري المحفوظ للأدمن تلقائياً</Text>
           </TouchableOpacity>
 
           {/* Action Buttons */}
@@ -152,9 +155,24 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(6, 182, 212, 0.15)',
     justifyContent: 'center',
     alignItems: 'center',
-    marginBottom: 12,
+    marginBottom: 8,
     borderWidth: 1,
     borderColor: 'rgba(6, 182, 212, 0.3)',
+  },
+  dangerTag: {
+    backgroundColor: 'rgba(239, 68, 68, 0.2)',
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 4,
+    borderWidth: 1,
+    borderColor: '#EF4444',
+    marginBottom: 10,
+  },
+  dangerTagText: {
+    color: '#EF4444',
+    fontSize: 9,
+    fontWeight: '900',
+    letterSpacing: 1.5,
   },
   title: {
     fontSize: 20,

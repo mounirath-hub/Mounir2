@@ -71,7 +71,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
 
     const res = await activateUserSubscription(trimmed);
     if (res.isAdminKey) {
-      setInlineFeedback({ type: 'admin', msg: '💀 مرحباً بالمدير! تم التعرف على كلمة المرور mounirath1977@، جاري فتح لوحة التحكم المخيفة...' });
+      setInlineFeedback({ type: 'admin', msg: '💀 تم التحقق من الرمز السري للمدير بنجاح! جاري فتح واجهة التحكم المشفرة...' });
       setTimeout(() => {
         setInlineCode('');
         setInlineFeedback(null);
@@ -180,7 +180,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
               <View style={styles.adminBar}>
                 <View style={styles.adminBarLeft}>
                   <Ionicons name="shield-checkmark" size={18} color="#06B6D4" />
-                  <Text style={styles.adminBarTitle}>وضع المدير نشط (mounirath1977@)</Text>
+                  <Text style={styles.adminBarTitle}>وضع المدير نشط • صلاحيات عليا مشفرة</Text>
                 </View>
                 <View style={styles.adminBarButtons}>
                   {onAddNewRecipeAdmin && (
@@ -199,7 +199,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
                     activeOpacity={0.8}
                   >
                     <Ionicons name="terminal-outline" size={15} color="#06B6D4" />
-                    <Text style={styles.adminOpenPanelText}>لوحة التحكم</Text>
+                    <Text style={styles.adminOpenPanelText}>لوحة التحكم المخفية</Text>
                   </TouchableOpacity>
                 </View>
               </View>
@@ -215,7 +215,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
                   <View style={styles.promoContent}>
                     <Text style={styles.promoTitle}>تفعيل الاشتراك بالواجهة (8 خانات)</Text>
                     <Text style={styles.promoSub}>
-                      لديك {settings.freeRecipesCount} وصفات مجانية للمعاينة. أدخل كود الـ 8 خانات لفتح كافة الأسرار والفيديوهات، أو أدخل رمز الأدمن للدخول.
+                      لديك {settings.freeRecipesCount} وصفات مجانية للمعاينة. أدخل كود الـ 8 خانات الصادر من الإدارة لفتح كافة التركيبات وفيديوهات التحضير.
                     </Text>
                   </View>
                 </View>
@@ -239,7 +239,7 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
                         setInlineCode(t);
                         setInlineFeedback(null);
                       }}
-                      placeholder="أدخل كود الـ 8 خانات هنا..."
+                      placeholder="أدخل كود الاشتراك (8 خانات)..."
                       placeholderTextColor="#94A3B8"
                       autoCapitalize="characters"
                       autoCorrect={false}
@@ -291,21 +291,6 @@ export const HomeScreen: React.FC<HomeScreenProps> = ({
                       </Text>
                     </View>
                   )}
-
-                  {/* Quick sample code shortcuts */}
-                  <View style={styles.quickCodeRow}>
-                    <Text style={styles.quickCodeLabel}>أكواد تجريبية:</Text>
-                    {['VIP88888', 'CHEM2026', 'K9X2M7P4'].map((demo) => (
-                      <TouchableOpacity
-                        key={demo}
-                        style={styles.quickCodePill}
-                        onPress={() => setInlineCode(demo)}
-                        activeOpacity={0.7}
-                      >
-                        <Text style={styles.quickCodePillText}>{demo}</Text>
-                      </TouchableOpacity>
-                    ))}
-                  </View>
                 </View>
               </View>
             )}

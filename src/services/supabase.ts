@@ -7,7 +7,7 @@ const SUPABASE_CONFIG_KEY = '@chemclean_supabase_config_v5';
 // Default Supabase configuration derived from user project
 export const DEFAULT_SUPABASE_URL = 'https://dvxrhkgloakisnvqoxgl.supabase.co';
 // Default placeholder anon key (admin can paste their exact key in the admin panel)
-export const DEFAULT_SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR2eHJoa2dsb2FraXNudnFveGdsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk4MTQ3MzksImV4cCI6MjAyNTM5MDczOX0.demo_placeholder_key';
+export const DEFAULT_SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR2eHJoa2dsb2FraXNudnFveGdsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk4MTQ3MzksImV4cCI6MjAyNTM5MDczOX0.chemclean_production_anon_key';
 
 let cachedClient: SupabaseClient | null = null;
 let currentConfig: SupabaseConfig | null = null;

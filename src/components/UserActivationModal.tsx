@@ -22,13 +22,6 @@ interface UserActivationModalProps {
   onAdminDetected: () => void;
 }
 
-const SAMPLE_DEMO_CODES = [
-  { code: 'VIP88888', label: 'كود VIP دائم' },
-  { code: 'CHEM2026', label: 'كود سنوي 365 يوم' },
-  { code: 'K9X2M7P4', label: 'كود شهري 30 يوم' },
-  { code: 'AUTO7788', label: 'كود عناية بالسيارات' },
-];
-
 export const UserActivationModal: React.FC<UserActivationModalProps> = ({
   visible,
   currentSubscription,
@@ -124,7 +117,7 @@ export const UserActivationModal: React.FC<UserActivationModalProps> = ({
                 </Text>
               )}
               <TouchableOpacity style={styles.cancelSubBtn} onPress={handleCancelSub} activeOpacity={0.7}>
-                <Text style={styles.cancelSubText}>إلغاء التفعيل والعودة للوضع التجريبي</Text>
+                <Text style={styles.cancelSubText}>إلغاء التفعيل والعودة للوضع الافتراضي</Text>
               </TouchableOpacity>
             </View>
           )}
@@ -141,7 +134,7 @@ export const UserActivationModal: React.FC<UserActivationModalProps> = ({
                   setErrorMsg(null);
                   setSuccessMsg(null);
                 }}
-                placeholder="مثال: VIP88888 أو CHEM2026"
+                placeholder="أدخل كود الاشتراك الصادر من الإدارة (8 خانات)..."
                 placeholderTextColor="#94A3B8"
                 autoCapitalize="characters"
                 autoCorrect={false}
@@ -152,7 +145,7 @@ export const UserActivationModal: React.FC<UserActivationModalProps> = ({
               <Ionicons name="barcode-outline" size={24} color="#0284C7" />
             </View>
             <Text style={styles.charCountHint}>
-              الرمز: {code.trim().toUpperCase()} ({code.trim().length} خانات)
+              الرمز المدخل: {code.trim().toUpperCase()} ({code.trim().length} خانات)
             </Text>
           </View>
 
@@ -171,24 +164,6 @@ export const UserActivationModal: React.FC<UserActivationModalProps> = ({
               <Text style={styles.errorText}>{errorMsg}</Text>
             </View>
           )}
-
-          {/* Sample Codes for Testing */}
-          <View style={styles.samplesSection}>
-            <Text style={styles.samplesTitle}>أكواد تجريبية سريعة للاختبار:</Text>
-            <View style={styles.samplesGrid}>
-              {SAMPLE_DEMO_CODES.map((s) => (
-                <TouchableOpacity
-                  key={s.code}
-                  style={styles.sampleChip}
-                  onPress={() => setCode(s.code)}
-                  activeOpacity={0.7}
-                >
-                  <Text style={styles.sampleCode}>{s.code}</Text>
-                  <Text style={styles.sampleLabel}>{s.label}</Text>
-                </TouchableOpacity>
-              ))}
-            </View>
-          </View>
 
           {/* Action Buttons */}
           <View style={styles.btnRow}>

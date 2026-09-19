@@ -203,7 +203,7 @@ export async function activateUserSubscription(
   if (upperCode.length !== 8) {
     return {
       success: false,
-      message: 'يتكون كود التفعيل حصراً من 8 حروف لاتينية وأرقام (مثال: VIP88888 أو CHEM2026)',
+      message: 'يتكون كود التفعيل حصراً من 8 حروف لاتينية وأرقام صادر من الإدارة',
     };
   }
 
@@ -355,4 +355,9 @@ export async function deleteMaterial(id: string): Promise<ChemicalMaterial[]> {
   const updated = current.filter((m) => m.id !== id);
   await AsyncStorage.setItem(MATERIALS_STORAGE_KEY, JSON.stringify(updated));
   return updated;
+}
+
+export async function clearStoredMaterials(): Promise<ChemicalMaterial[]> {
+  await AsyncStorage.setItem(MATERIALS_STORAGE_KEY, JSON.stringify([]));
+  return [];
 }

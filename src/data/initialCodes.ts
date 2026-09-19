@@ -2,7 +2,7 @@ import { ActivationCode } from '../types';
 
 export const INITIAL_CODES: ActivationCode[] = [
   {
-    id: 'code_demo_1',
+    id: 'code_auth_1',
     code: 'VIP88888',
     plan: 'lifetime',
     planName: 'مدى الحياة (وصول غير محدود)',
@@ -15,7 +15,7 @@ export const INITIAL_CODES: ActivationCode[] = [
     categoryScope: 'all',
   },
   {
-    id: 'code_demo_2',
+    id: 'code_auth_2',
     code: 'CHEM2026',
     plan: 'annual',
     planName: 'سنوي (سنة كاملة)',
@@ -28,7 +28,7 @@ export const INITIAL_CODES: ActivationCode[] = [
     categoryScope: 'all',
   },
   {
-    id: 'code_demo_3',
+    id: 'code_auth_3',
     code: 'K9X2M7P4',
     plan: 'monthly',
     planName: 'شهري (30 يوم)',
@@ -37,11 +37,11 @@ export const INITIAL_CODES: ActivationCode[] = [
     status: 'active',
     maxUses: 5,
     timesUsed: 0,
-    notes: 'كود شهري 8 خانات نشط',
+    notes: 'كود شهري رسمي 8 خانات نشط',
     categoryScope: 'all',
   },
   {
-    id: 'code_demo_4',
+    id: 'code_auth_4',
     code: 'AUTO7788',
     plan: 'quarterly',
     planName: 'فصلي (3 أشهر)',
@@ -54,7 +54,7 @@ export const INITIAL_CODES: ActivationCode[] = [
     categoryScope: 'car_care',
   },
   {
-    id: 'code_demo_5',
+    id: 'code_auth_5',
     code: 'HOME9922',
     plan: 'monthly',
     planName: 'شهري (30 يوم)',
